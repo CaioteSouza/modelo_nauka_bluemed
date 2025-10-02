@@ -1,0 +1,3489 @@
+@media only screen and (min-width: 1200px) and (max-width: 1500px) {
+
+    /*============= Home One ==============*/
+    .about-style1__big-title {
+        display: none;
+    }
+
+
+
+
+    /*============= Home Two ==============*/
+    .choose-style2__shape1 {
+        display: none;
+    }
+
+    .choose-style2__shape2 {
+        display: none;
+    }
+
+
+    .yacht-style2__shape1 {
+        display: none;
+    }
+
+
+    .destinations-style2__img {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .destinations-style2__content {
+        margin-left: 0;
+        padding-top: 0px;
+    }
+
+
+
+
+    .testimonial-style1__content {
+        margin-left: 640px;
+        margin-right: 0;
+    }
+
+
+
+    .single-blog-style1 .img-box .overlay-content .title h3 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+
+
+
+    .fact-counter-style4__inner {
+        margin-left: -40px;
+    }
+
+    .fact-counter-style4__big-title {
+        display: none;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media only screen and (min-width: 1200px) and (max-width: 1350px) {
+
+    /*============= Yachts 01 ==============*/
+    .yacht-list-style1__right {
+        margin-left: -30px;
+    }
+
+    .yacht-list-style1__content {
+        padding: 17px 30px 20px;
+    }
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+/* Medium screen  */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+    /*======== Home One =========*/
+    .about-style1__big-title {
+        display: none;
+    }
+
+
+    .destinations-style1__shape {
+        display: none;
+    }
+
+
+    .choose-style1__shape1 {
+        display: none;
+    }
+
+    .choose-style1__shape2 {
+        display: none;
+    }
+
+
+    .fact-counter-style1 ul li:nth-child(2):before {
+        display: none;
+    }
+
+
+
+    .activities-style1 .shape1 {
+        display: none;
+    }
+
+    .activities-style1__big-title {
+        display: none;
+    }
+
+
+
+    .testimonial-style1__content {
+        margin-left: 490px;
+        margin-right: -60px;
+    }
+
+    .testimonial-style1-carousel.owl-nav-style-one.owl-theme .owl-nav {
+        right: 0;
+    }
+
+
+
+    .blog-style1 .row {
+        justify-content: center;
+    }
+
+    .blog-style1__shape1 {
+        display: none;
+    }
+
+    .blog-style1__shape2 {
+        display: none;
+    }
+
+
+
+
+    /*============= Home Two ==============*/
+    .choose-style2__shape1 {
+        display: none;
+    }
+
+    .choose-style2__shape2 {
+        display: none;
+    }
+
+
+
+    .about-style2__img {
+        margin-right: 0;
+        max-width: 600px;
+        margin: 0 auto 0;
+    }
+
+    .about-style2__content {
+        max-width: 600px;
+        margin: 70px auto 0px;
+    }
+
+
+
+    .yacht-style2__shape1 {
+        display: none;
+    }
+
+
+
+    .activities-style2 .row {
+        justify-content: center;
+    }
+
+
+
+    .process-style1 .row {
+        justify-content: center;
+    }
+
+
+    .yacht-size-style1 .row {
+        justify-content: center;
+    }
+
+
+
+    .destinations-style2__img {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .destinations-style2__content {
+        margin-left: 0;
+        padding-top: 40px;
+    }
+
+    .destinations-style2__inner::before {
+        display: none;
+    }
+
+
+
+
+    /*============= Home Three ==============*/
+    .about-style3__img {
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+    .about-style3__content {
+        max-width: 700px;
+        margin: 60px auto 0px;
+    }
+
+
+
+    .team-style1__big-title {
+        display: none;
+    }
+
+    .team-style1__shape1 {
+        display: none;
+    }
+
+
+
+    .blog-style2__shape1 {
+        display: none;
+    }
+
+    .blog-style2__shape2 {
+        display: none;
+    }
+
+    .blog-style2 .row {
+        justify-content: center;
+    }
+
+
+
+
+    /*============= Home Four ==============*/
+    .pricing-style1 .row {
+        justify-content: center;
+    }
+
+
+
+
+
+
+
+
+    /*============= Home Five ==============*/
+    .about-style4__form {
+        margin-left: 0px;
+    }
+
+    .about-style4 .sec-title h2 {
+        font-size: 50px;
+    }
+
+    .about-style4__shape1 {
+        display: none;
+    }
+
+    .about-style4__shape2 {
+        display: none;
+    }
+
+    .about-style4__shape3 {
+        display: none;
+    }
+
+
+
+    .fleet-style1--style2 ul li:nth-child(1) {
+        margin-top: 0px;
+    }
+
+    .fleet-style1--style2 ul li:nth-child(3) {
+        margin-top: 0px;
+    }
+
+    .fleet-style1--style2 ul li:nth-child(5) {
+        margin-top: 0px;
+    }
+
+    .fleet-style1--style2 .shape1 {
+        display: none;
+    }
+
+
+
+    .activities-style2 .row {
+        justify-content: center;
+    }
+
+
+
+
+    .yacht-style4__shape2 {
+        display: none;
+    }
+
+    .yacht-style4--style2__big-title {
+        display: none;
+    }
+
+
+
+    .fact-counter-style4__big-title {
+        display: none;
+    }
+
+    .fact-counter-style4__bg {
+        width: calc((100% - 30%) / 2);
+    }
+
+    .fact-counter-style4__inner {
+        margin-left: 0;
+    }
+
+
+    /*============= Blog 01 ==============*/
+
+
+
+    /*============= Blog 02 ==============*/
+    .blog-page-two .single-blog-style1 .img-box .overlay-content .title h3 {
+        font-size: 25px;
+        line-height: 29px;
+    }
+
+
+    /*============= Blog 03 ==============*/
+    .blog-details__sidebar--style1 {
+        margin-right: 0;
+    }
+
+
+
+    /*============= Yachts 01 ==============*/
+    .yacht-list-style1__sidebar {
+        margin-right: 0px;
+    }
+
+    .yacht-list-style1__img {
+        margin-right: 0px;
+    }
+
+    .yacht-list-style1__content {
+        border-top: none;
+        border-left: 1px solid var(--thm-border-color);
+        margin-left: 0px;
+    }
+
+
+
+
+    /*======== Yachts Details =========*/
+    .yacht-details-style1__left {
+        margin-right: 56px;
+    }
+
+    .yacht-details-style1__right {
+        margin-top: 50px;
+    }
+
+
+
+    /*======== Yachts Details 02 =========*/
+    .yacht-details-style2__left {
+        margin-right: 0px;
+    }
+
+    .yacht-details-style2__right .content-box1 .title h2 {
+        font-size: 40px;
+    }
+
+    .yacht-details-style2__right-form .inner-title h3 {
+        font-size: 40px;
+    }
+
+
+
+    /*======== Yachts Details 03 =========*/
+    .yacht-details-style3__facilities-single {
+        margin-bottom: 30px;
+    }
+
+    .yacht-details-style3__facilities .text-box {
+        padding-top: 0px;
+    }
+
+
+
+
+    /*======== Team Details =========*/
+    .team-details__content .contact-box .row {
+        justify-content: center;
+    }
+
+    .team-details__img {
+        margin-left: 0px;
+    }
+
+
+
+
+    /*============== Shop 01 =============*/
+    .products-content-box {
+        margin-left: 0px;
+    }
+
+
+
+
+    /*============== Shop Details =============*/
+    .products-details__right {
+        margin-left: 0px;
+    }
+
+    .products-details__right .title h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .products-details__right .price h2 {
+        font-size: 25px;
+        line-height: 29px;
+    }
+
+
+
+    .footer-main {
+        padding: 100px 0px 30px;
+    }
+
+    .single-footer-widget {
+        margin-bottom: 50px;
+    }
+
+    .single-footer-widget.ml80 {
+        margin-left: 0px;
+    }
+
+    .single-footer-widget.ml50 {
+        margin-left: 0px;
+    }
+
+    .single-footer-widget.ml30 {
+        margin-left: 0px;
+    }
+
+
+
+
+    .single-process-style1 .process-arrow {
+        display: none;
+    }
+
+    .single-process-style1 .process-arrow2 {
+        display: none;
+    }
+
+    li:last-child .single-process-style1 {
+        float: none;
+    }
+
+    .single-process-style1__inner {
+        margin: 0 auto;
+    }
+
+
+
+
+    /*========  Tour Details =========*/
+    .tour-details-text-box2 .inner-content::before {
+        display: none;
+    }
+
+    .tour-details-info-box ul li {
+        flex-direction: column;
+    }
+
+    .tour-details-info-box ul li .text {
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 15px;
+    }
+
+    .tour-details-style1__sidebar {
+        margin-left: 0;
+    }
+
+    .book-this-yacht-style1 {
+        padding: 22px 10px 35px;
+    }
+
+    .single-add-review__content-bottom ul {
+        display: block;
+    }
+
+    .single-add-review__content-bottom ul li+li {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+
+
+
+    /*========  Contact Us =========*/
+    .contact-style1 .row {
+        justify-content: center;
+    }
+
+    .contact-page__map-box {
+        height: 649px;
+    }
+
+
+
+    .destinations-style2__inner {
+        padding: 120px 0px 120px;
+    }
+
+
+
+    .cta-style1__title h2 {
+        font-size: 32px;
+    }
+
+
+
+    .single-fleet-style1 {
+        margin: 0 auto 30px;
+    }
+
+
+
+
+    .tour-plan-style1 .container {
+        max-width: 880px;
+    }
+
+    .tour-plan-style1__sidebar {
+        margin-top: 70px;
+        margin-right: 0px;
+    }
+
+    .tour-plan__sidebar-offer-single .img {
+        margin-right: 0;
+    }
+
+    .tour-plan__sidebar-offer-single .content {
+        margin-left: 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    /*======== Default Css =========*/
+    .sec-title p br {
+        display: none;
+    }
+
+    .coming-soon-page-style1 {
+        height: auto !important;
+        padding: 110px 0 120px;
+    }
+
+    .coming-soon-page-style1__content .big-title {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .timer-box .countdown-timer li {
+        float: none;
+    }
+
+    .timer-box .countdown-timer li+li {
+        margin-top: 20px;
+    }
+
+    .coming-soon-page-style1__content {
+        top: 0%;
+        transform: translateY(0%);
+    }
+
+    .subscribe-box-style1 {
+        max-width: 370px;
+    }
+
+    .subscribe-box-style1 form input[type="email"] {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .subscribe-box-style1 form button {
+        position: relative;
+        top: 0px;
+        left: 0;
+        right: 0px;
+        bottom: 0px;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .project-menu-box ul li span {
+        font-size: 13px;
+        padding: 17px 17px 17px;
+    }
+
+    .project-menu-box li .count {
+        top: 6px;
+        right: 8px;
+        font-size: 12px;
+        line-height: 12px;
+        font-weight: 400;
+    }
+
+
+
+
+
+
+
+
+    /*======== Home One =========*/
+    .yacht-tour-style1__form form ul {
+        flex-direction: column;
+        background-color: transparent;
+    }
+
+    .yacht-tour-style1__form form ul li {
+        width: 100%;
+    }
+
+    .yacht-tour-style1__form form ul li+li {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+
+    .yacht-tour-style1__form form ul li.btn-box {
+        width: 100%;
+    }
+
+
+
+    .about-style1__big-title {
+        display: none;
+    }
+
+
+
+    .destinations-style1__shape {
+        display: none;
+    }
+
+
+
+
+    .choose-style1__shape1 {
+        display: none;
+    }
+
+    .choose-style1__shape2 {
+        display: none;
+    }
+
+
+
+    .video-style1__content .title h2 br {
+        display: none;
+    }
+
+
+
+    .fact-counter-style1 ul li:nth-child(2):before {
+        display: none;
+    }
+
+
+
+
+    .activities-style1 .shape1 {
+        display: none;
+    }
+
+    .activities-style1__big-title {
+        display: none;
+    }
+
+
+
+
+
+    .testimonial-style1 {
+        padding: 0px 0px 210px;
+    }
+
+    .testimonial-style1 .sec-title .sub-title h4 {
+        color: var(--thm-white);
+    }
+
+    .testimonial-style1__bg {
+        position: relative;
+        width: 100%;
+        height: 550px;
+        overflow: auto;
+        right: 0;
+    }
+
+    .testimonial-style1__bg2 {
+        display: none;
+    }
+
+    .testimonial-style1__content {
+        padding-top: 60px;
+        margin-left: 0px;
+        margin-right: 0px;
+        z-index: 12;
+    }
+
+    .testimonial-style1-carousel.owl-nav-style-one.owl-theme .owl-nav {
+        right: 0;
+        bottom: -90px;
+        left: 0;
+        margin: 0 auto;
+    }
+
+    .testimonial-style1 .sec-title .sub-title h4 {
+        color: var(--thm-primary-color);
+    }
+
+
+
+
+    .blog-style1 .row {
+        justify-content: center;
+    }
+
+    .blog-style1__shape1 {
+        display: none;
+    }
+
+    .blog-style1__shape2 {
+        display: none;
+    }
+
+    .single-blog-style1 .img-box .overlay-content .title h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .single-blog-style1-right li .content-box .title h3 {
+        font-size: 19px;
+        line-height: 27px;
+    }
+
+
+
+
+    /*============= Home Two ==============*/
+    .choose-style2__shape1 {
+        display: none;
+    }
+
+    .choose-style2__shape2 {
+        display: none;
+    }
+
+
+
+    .about-style2__img {
+        margin-right: 0;
+        max-width: 500px;
+        margin: 0 auto 0;
+    }
+
+    .about-style2__content {
+        max-width: 600px;
+        margin: 70px auto 0px;
+    }
+
+
+
+    .yacht-style2__shape1 {
+        display: none;
+    }
+
+
+    .activities-style2 .row {
+        justify-content: center;
+    }
+
+    .single-activities-style2 .content-box {
+        padding: 45px 37px 30px;
+    }
+
+    .single-activities-style2 .content-box .title h3 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+
+
+
+    .process-style1 .row {
+        justify-content: center;
+    }
+
+    .single-process-style1 .process-arrow {
+        display: none;
+    }
+
+    .single-process-style1 .process-arrow2 {
+        display: none;
+    }
+
+
+    .yacht-size-style1 .row {
+        justify-content: center;
+    }
+
+
+    .destinations-style2__img {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .destinations-style2__content {
+        margin-left: 0;
+        padding-top: 40px;
+    }
+
+    .destinations-style2__inner::before {
+        display: none;
+    }
+
+
+
+    /*============= Home Three ==============*/
+    .about-style3__img {
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+    .about-style3__content {
+        max-width: 700px;
+        margin: 60px auto 0px;
+    }
+
+
+
+    .team-style1__big-title {
+        display: none;
+    }
+
+    .team-style1__shape1 {
+        display: none;
+    }
+
+
+
+    .blog-style2__shape1 {
+        display: none;
+    }
+
+    .blog-style2__shape2 {
+        display: none;
+    }
+
+    .blog-style2 .row {
+        justify-content: center;
+    }
+
+
+
+
+    /*============= Home Four ==============*/
+    .about-style1--in-style2 .shape1 {
+        display: none;
+    }
+
+    .about-style1--in-style2 .shape2 {
+        display: none;
+    }
+
+    .about-style1--in-style2 .shape3 {
+        display: none;
+    }
+
+
+    .pricing-style1 .row {
+        justify-content: center;
+    }
+
+    .single-pricing-style1 {
+        padding: 40px 20px 49px;
+    }
+
+
+
+
+
+    .cta-style1__inner {
+        padding: 50px 30px 50px;
+        flex-direction: column;
+    }
+
+    .cta-style1__title h2 {
+        font-size: 35px;
+    }
+
+    .cta-style1__btn {
+        padding-top: 20px;
+    }
+
+
+
+
+    /*============= Home Five ==============*/
+    .about-style4__form {
+        margin-left: 0px;
+        margin-top: 60px;
+    }
+
+    .about-style4 .sec-title h2 {
+        font-size: 50px;
+    }
+
+    .about-style4__shape1 {
+        display: none;
+    }
+
+    .about-style4__shape2 {
+        display: none;
+    }
+
+    .about-style4__shape3 {
+        display: none;
+    }
+
+
+
+    .fleet-style1--style2 ul li:nth-child(1) {
+        margin-top: 0px;
+    }
+
+    .fleet-style1--style2 ul li:nth-child(2) {
+        margin-top: 0px;
+    }
+
+    .fleet-style1--style2 ul li:nth-child(3) {
+        margin-top: 0px;
+    }
+
+    .fleet-style1--style2 ul li:nth-child(5) {
+        margin-top: 0px;
+    }
+
+    .fleet-style1--style2 .shape1 {
+        display: none;
+    }
+
+    .single-fleet-style1--style2 {
+        margin: 0px auto 40px;
+    }
+
+
+
+
+    .activities-style2 .row {
+        justify-content: center;
+    }
+
+
+
+    .yacht-style4--style2 {
+        padding-top: 0;
+    }
+
+    .yacht-style4__shape2 {
+        display: none;
+    }
+
+    .yacht-style4--style2__big-title {
+        display: none;
+    }
+
+    .yacht-style4--style2__border-line {
+        display: none;
+    }
+
+
+
+    .fact-counter-style4__big-title {
+        display: none;
+    }
+
+    .fact-counter-style4__bg {
+        display: none;
+    }
+
+    .fact-counter-style4__inner {
+        margin-left: 0;
+    }
+
+
+
+
+    /*============= Blog 01 ==============*/
+    .blog-details__sidebar {
+        margin-right: 0px;
+    }
+
+
+
+    /*============= Blog 03 ==============*/
+    .blog-details__text1 .title h2 {
+        font-size: 35px;
+        line-height: 1.0em;
+    }
+
+
+
+    /*============= Yachts 01 ==============*/
+    .yacht-list-style1__sidebar {
+        margin-right: 0px;
+    }
+
+    .yacht-list-style1__right {
+        margin-top: 50px;
+    }
+
+    .yacht-list-style1__img {
+        margin-right: 0px;
+    }
+
+    .yacht-list-style1__content {
+        border-top: none;
+        border-left: 1px solid var(--thm-border-color);
+        margin-left: 0px;
+    }
+
+
+    /*======== Yachts Details =========*/
+    .yacht-details-style1__left-img {
+        margin-right: 0px;
+    }
+
+    .yacht-details-style1__left-top .title-box h2 {
+        font-size: 35px;
+    }
+
+    .yacht-details-style1__left-top .list-item1 {
+        flex-direction: column;
+    }
+
+    .yacht-details-style1__left-top .list-item1 li+li {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+
+
+    .yacht-details-style1__right {
+        margin-top: 50px;
+    }
+
+
+
+    /*======== Yachts Details 02 =========*/
+    .yacht-details-style2__left {
+        margin-right: 0px;
+    }
+
+    .yacht-details-style2__right {
+        margin-top: 50px;
+    }
+
+
+
+    /*======== Yachts Details 03 =========*/
+    .yacht-details-style3__facilities-single {
+        margin-bottom: 30px;
+    }
+
+    .yacht-details-style3__facilities .text-box {
+        padding-top: 0px;
+    }
+
+
+
+    /*======== Team Details =========*/
+    .team-details__content .title-box1 h2 {
+        font-size: 50px;
+    }
+
+    .team-details__img {
+        margin-left: 0px;
+        margin-top: 50px;
+    }
+
+
+    /*======== Project 01 =========*/
+    .single-project-style1 .img-box .overlay-icon>a {
+        font-size: 30px;
+    }
+
+    .single-project-style1 .overlay-content {
+        margin-top: 5px;
+    }
+
+    .single-project-style1 .overlay-content h2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .single-project-style1 .overlay-content .btn-box {
+        padding-top: 5px;
+    }
+
+    .single-project-style1 .overlay-content .btn-box>a {
+        font-size: 28px;
+    }
+
+
+
+    /*============== Faq Page =============*/
+    .faq-style2__inner ul+ul {
+        margin-top: 20px;
+    }
+
+
+
+    /*============== Shop 01 =============*/
+    .products-content-box {
+        margin-top: 50px;
+        margin-left: 0px;
+    }
+
+
+
+    /*============== Shop Details =============*/
+    .products-details__right {
+        margin-left: 0px;
+        margin-top: 60px;
+    }
+
+    .products-details__right .title h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+
+
+    /*============== Shop Cart =============*/
+    .cart-button-box {
+        flex-direction: column;
+    }
+
+    .update-cart-btn-box {
+        margin-top: 20px;
+    }
+
+
+
+    /*============== Shop Checkout =============*/
+    .product-details-info-box {
+        margin-top: 30px;
+    }
+
+
+
+
+    .footer-main {
+        padding: 100px 0px 30px;
+    }
+
+    .single-footer-widget {
+        margin-bottom: 50px;
+    }
+
+    .single-footer-widget.ml80 {
+        margin-left: 0px;
+    }
+
+    .single-footer-widget.ml50 {
+        margin-left: 0px;
+    }
+
+    .single-footer-widget.ml30 {
+        margin-left: 0px;
+    }
+
+
+
+
+    .single-process-style1 .process-arrow {
+        display: none;
+    }
+
+    .single-process-style1 .process-arrow2 {
+        display: none;
+    }
+
+    li:last-child .single-process-style1 {
+        float: none;
+    }
+
+    .single-process-style1__inner {
+        margin: 0 auto;
+    }
+
+
+
+    /*========  Tour Details =========*/
+    .tour-details-info-box ul li {
+        flex-direction: column;
+    }
+
+    .tour-details-info-box ul li .text {
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 15px;
+    }
+
+    .single-add-review__content-bottom ul li+li {
+        margin-left: 20px;
+    }
+
+    .tour-details-style1__sidebar {
+        margin-left: 0;
+    }
+
+
+
+    /*========  Contact Us =========*/
+    .contact-style1 .row {
+        justify-content: center;
+    }
+
+    .single-contact-style1 .content-box {
+        padding: 75px 20px 43px;
+    }
+
+    .contact-form {
+        margin-bottom: 50px;
+    }
+
+
+
+    .destinations-style2__inner {
+        padding: 120px 0px 120px;
+    }
+
+
+
+    .fleet-style1--style2 {
+        padding-bottom: 80px;
+    }
+
+
+
+
+    .yacht-tour-style1__form form ul {
+        flex-direction: column;
+        background-color: transparent;
+        padding: 20px 20px 20px;
+    }
+
+    .tour-plan-style1 .container {
+        max-width: 530px;
+    }
+
+    .tour-plan-style1__sidebar {
+        margin-top: 70px;
+        margin-right: 0px;
+    }
+
+    .tour-plan__sidebar-offer-single .img {
+        margin-right: 0;
+    }
+
+    .tour-plan__sidebar-offer-single .content {
+        margin-left: 0;
+    }
+
+    .yacht-tour-style1__form--style2 form ul li.btn-box button.btn-one {
+        line-height: 40px;
+    }
+
+    .single-tour-plan-style1 .img-box .overlay-content {
+        position: relative;
+        display: block;
+        left: 0;
+        bottom: 0px;
+        right: 0;
+        max-width: 100%;
+        width: 100%;
+        padding: 21px 0px 0px;
+    }
+
+    .single-tour-plan-style1 .img-box .overlay-content .left-box {
+        padding-right: 0px;
+        margin-bottom: 16px;
+    }
+
+    .single-list-tour-plan-style1 .img-box {
+        margin-right: 0px;
+    }
+
+    .single-list-tour-plan-style1 .content-box {
+        padding: 30px 30px 40px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+
+
+
+    .breadcrumb-style1 .inner-content {
+        padding: 249px 0px 134px;
+    }
+
+    .breadcrumb-style1 .title h2 {
+        font-size: 50px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+
+    /*======== Default Css =========*/
+    .sec-title {
+        padding-bottom: 49px;
+    }
+
+    .sec-title h2 {
+        font-size: 32px;
+        line-height: 1.3em;
+    }
+
+    .sec-title h2 br {
+        display: none;
+    }
+
+    .sec-title p br {
+        display: none;
+    }
+
+    .error-content .big-title h2 {
+        font-size: 120px;
+        line-height: 100px;
+    }
+
+    .error-content .title h2 {
+        font-size: 40px;
+        line-height: 50px;
+        font-weight: 700;
+    }
+
+    .error-content .text p br {
+        display: none;
+    }
+
+    .coming-soon-page-style1 {
+        height: auto !important;
+        padding: 110px 0 120px;
+    }
+
+    .coming-soon-page-style1__content .big-title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .timer-box .countdown-timer li {
+        float: none;
+    }
+
+    .timer-box .countdown-timer li+li {
+        margin-top: 20px;
+    }
+
+    .coming-soon-page-style1__content {
+        top: 0%;
+        transform: translateY(0%);
+        padding: 0 20px;
+    }
+
+    .subscribe-box-style1 {
+        max-width: 370px;
+    }
+
+    .subscribe-box-style1 form input[type="email"] {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .subscribe-box-style1 form button {
+        position: relative;
+        top: 0px;
+        left: 0;
+        right: 0px;
+        bottom: 0px;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+
+
+
+    /*======== Home One =========*/
+    .yacht-tour-style1__form form ul {
+        flex-direction: column;
+    }
+
+    .yacht-tour-style1__form form ul li {
+        width: 100%;
+    }
+
+    .yacht-tour-style1__form form ul li+li {
+        margin-left: 0px;
+    }
+
+    .yacht-tour-style1__form form ul li.btn-box {
+        width: 100%;
+    }
+
+
+
+    .partner-style1__title h2 {
+        font-size: 30px;
+    }
+
+
+    .about-style1__big-title {
+        display: none;
+    }
+
+    .about-style1__rotated-text {
+        position: relative;
+        top: 0;
+        left: 0;
+        margin: 40px auto 0;
+    }
+
+    .about-style1__img .img-box {
+        bottom: 0;
+    }
+
+    .about-style1__img .img-box img {
+        float: none;
+        max-width: 100%;
+    }
+
+
+
+    .destinations-style1__shape {
+        display: none;
+    }
+
+
+
+
+    .yacht-style1 .sec-title {
+        padding-bottom: 100px;
+    }
+
+    .yacht-style1-carousel.owl-nav-style-one.owl-theme .owl-nav {
+        top: -80px;
+        right: auto;
+        left: -5px;
+    }
+
+    .single-yacht-style1 .content-box .top-box {
+        padding: 10px 20px 11px;
+    }
+
+    .single-yacht-style1 .content-box .top-box .title h3 {
+        font-size: 20px;
+    }
+
+    .single-yacht-style1 .content-box .top-box .value h3 {
+        font-size: 20px;
+    }
+
+    .single-yacht-style1 .content-box .list-item {
+        padding: 23px 20px 22px;
+    }
+
+
+
+
+    .choose-style1__shape1 {
+        display: none;
+    }
+
+    .choose-style1__shape2 {
+        display: none;
+    }
+
+
+
+    .video-style1__content .title h2 {
+        font-size: 40px;
+    }
+
+    .video-style1__content .title h2 br {
+        display: none;
+    }
+
+
+
+    .fact-counter-style1 ul li::before {
+        display: none;
+    }
+
+    .fact-counter-style1 ul li::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 200px;
+        height: 1px;
+        background-color: var(--thm-border-color);
+        margin: 0 auto;
+    }
+
+    .fact-counter-style1 ul li:last-child:after {
+        display: none;
+    }
+
+
+
+
+
+    .activities-style1 .shape1 {
+        display: none;
+    }
+
+    .activities-style1__big-title {
+        display: none;
+    }
+
+
+
+
+    .testimonial-style1 {
+        padding: 0px 0px 210px;
+    }
+
+    .testimonial-style1 .sec-title .sub-title h4 {
+        color: var(--thm-white);
+    }
+
+    .testimonial-style1__bg {
+        position: relative;
+        width: 100%;
+        height: 400px;
+        overflow: auto;
+        right: 0;
+    }
+
+    .testimonial-style1__bg2 {
+        display: none;
+    }
+
+    .testimonial-style1__content {
+        padding-top: 60px;
+        margin-left: 0px;
+        margin-right: 0px;
+        z-index: 12;
+    }
+
+    .testimonial-style1-carousel.owl-nav-style-one.owl-theme .owl-nav {
+        right: 0;
+        bottom: -90px;
+        left: 0;
+        margin: 0 auto;
+    }
+
+    .testimonial-style1 .sec-title .sub-title h4 {
+        color: var(--thm-primary-color);
+    }
+
+    .single-testimonial-style1-inner {
+        padding: 30px 20px 40px;
+    }
+
+    .single-testimonial-style1-inner .author-box .title {
+        margin-left: 10px;
+    }
+
+    .single-testimonial-style1-inner .author-box .title h3 {
+        font-size: 20px;
+    }
+
+
+
+
+
+    .blog-style1__shape1 {
+        display: none;
+    }
+
+    .blog-style1__shape2 {
+        display: none;
+    }
+
+    .single-blog-style1 .img-box .overlay-content {
+        left: 20px;
+        right: 20px;
+    }
+
+    .single-blog-style1 .img-box .overlay-content .title h3 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    .single-blog-style1 .img-box .overlay-content .title h3 br {
+        display: none;
+    }
+
+    .single-blog-style1-right li {
+        display: block;
+    }
+
+    .single-blog-style1-right li .content-box {
+        margin-top: 15px;
+        margin-left: 0px;
+    }
+
+
+
+
+
+
+
+    /*============= Home Two ==============*/
+    .choose-style2__shape1 {
+        display: none;
+    }
+
+    .choose-style2__shape2 {
+        display: none;
+    }
+
+
+    .about-style2__img {
+        margin-right: 0;
+        max-width: 100%;
+        margin: 0 auto 0;
+    }
+
+    .about-style2__content {
+        max-width: 100%;
+        margin: 70px auto 0px;
+    }
+
+    .about-style2__img .expericence-box {
+        position: relative;
+        right: 0;
+        margin: 30px auto 0;
+    }
+
+    .about-style2__img .shape2 {
+        display: none;
+    }
+
+
+
+    .yacht-style2__shape1 {
+        display: none;
+    }
+
+    .yacht-style2-carousel.owl-nav-style-one.owl-theme .owl-nav {
+        top: -80px;
+        left: -5px;
+    }
+
+    .yacht-style2 .sec-title {
+        padding-bottom: 95px;
+    }
+
+    .single-yacht-style2 .img-box .overlay-content {
+        left: 10px;
+        right: 10px;
+    }
+
+
+
+
+
+    .single-activities-style2 .content-box {
+        padding: 50px 30px 30px;
+    }
+
+    .single-activities-style2 .content-box .title h3 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+
+
+    .single-process-style1 .process-arrow {
+        display: none;
+    }
+
+    .single-process-style1 .process-arrow2 {
+        display: none;
+    }
+
+    li:first-child .single-process-style1 {
+        width: fit-content;
+    }
+
+    li:last-child .single-process-style1 {
+        float: none;
+    }
+
+    .single-process-style1 .count-box {
+        right: 0;
+        left: 0;
+        margin: 0 auto;
+    }
+
+
+
+    .destinations-style2__img {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .destinations-style2__content {
+        margin-left: 0;
+        padding-top: 40px;
+    }
+
+    .destinations-style2__inner::before {
+        display: none;
+    }
+
+
+
+
+
+    /*============= Home Three ==============*/
+    .about-style3__img {
+        margin-right: 0;
+    }
+
+    .about-style3__img .img-box1 {
+        margin-right: 0px;
+    }
+
+    .about-style3__img .img-box2 {
+        position: relative;
+        border-top: 0px solid var(--thm-white);
+        border-left: 0px solid var(--thm-white);
+        margin-top: 20px;
+    }
+
+    .about-style3__content {
+        margin-left: 0;
+        margin-top: 60px;
+    }
+
+    .about-style3__img .shape1 {
+        display: none;
+    }
+
+    .about-style3 .shape2 {
+        display: none;
+    }
+
+
+
+    .yacht-style3__top {
+        display: block;
+        padding-bottom: 70px;
+    }
+
+    .yacht-style3__top .btn-box {
+        top: 0;
+        margin-top: 19px;
+    }
+
+
+
+    .team-style1__big-title {
+        display: none;
+    }
+
+    .team-style1__shape1 {
+        display: none;
+    }
+
+
+
+    .blog-style2__shape1 {
+        display: none;
+    }
+
+    .blog-style2__shape2 {
+        display: none;
+    }
+
+    .blog-style2 .row {
+        justify-content: center;
+    }
+
+
+
+    /*============= Home Four ==============*/
+    .about-style1--in-style2 .shape1 {
+        display: none;
+    }
+
+    .about-style1--in-style2 .shape2 {
+        display: none;
+    }
+
+    .about-style1--in-style2 .shape3 {
+        display: none;
+    }
+
+
+    .single-yacht-style4 .content-box h2 {
+        font-size: 25px;
+    }
+
+
+
+    .single-pricing-style1 {
+        padding: 40px 15px 49px;
+    }
+
+
+
+    .cta-style1__inner {
+        padding: 50px 20px 50px;
+        flex-direction: column;
+    }
+
+    .cta-style1__title {
+        text-align: center;
+    }
+
+    .cta-style1__title h2 {
+        font-size: 25px;
+    }
+
+    .cta-style1__btn {
+        padding-top: 20px;
+    }
+
+
+
+
+
+    /*============= Home Five ==============*/
+    .about-style4__form {
+        margin-left: 0px;
+        margin-top: 60px;
+        padding: 29px 20px 45px;
+    }
+
+    .about-style4 .sec-title h2 {
+        font-size: 50px;
+    }
+
+    .about-style4__shape1 {
+        display: none;
+    }
+
+    .about-style4__shape2 {
+        display: none;
+    }
+
+    .about-style4__shape3 {
+        display: none;
+    }
+
+    .about-style1__rotated-text.instyle--2 {
+        top: 0;
+        left: 0;
+        margin-top: 0;
+        margin-bottom: 50px;
+    }
+
+
+    .fleet-style1--style2 ul li:nth-child(1) {
+        margin-top: 0px;
+    }
+
+    .fleet-style1--style2 ul li:nth-child(3) {
+        margin-top: 0px;
+    }
+
+    .fleet-style1--style2 ul li:nth-child(5) {
+        margin-top: 0px;
+    }
+
+    .fleet-style1--style2 .shape1 {
+        display: none;
+    }
+
+    .single-fleet-style1--style2 {
+        margin: 0px auto 40px;
+    }
+
+    .fleet-style1 {
+        padding: 0px 0px 80px;
+    }
+
+
+
+
+    .yacht-style4--style2 {
+        padding-top: 0;
+    }
+
+    .yacht-style4__shape2 {
+        display: none;
+    }
+
+    .yacht-style4--style2__big-title {
+        display: none;
+    }
+
+    .yacht-style4--style2__border-line {
+        display: none;
+    }
+
+
+
+    .fact-counter-style4__big-title {
+        display: none;
+    }
+
+    .fact-counter-style4__bg {
+        display: none;
+    }
+
+    .fact-counter-style4__inner {
+        margin-left: 0;
+    }
+
+    .fact-counter-style4__inner ul li {
+        width: 100%;
+        height: 160px;
+    }
+
+    .fact-counter-style4__inner ul::before {
+        display: none;
+    }
+
+    .fact-counter-style4__inner ul::after {
+        display: none;
+    }
+
+
+
+
+
+    /*============= Blog 01 ==============*/
+    .blog-details__sidebar {
+        margin-right: 0px;
+    }
+
+    .single-sidebar__blog-post li {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .single-sidebar__blog-post li .content-box {
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+
+    .single-sidebar__blog-post li .content-box .date {
+        justify-content: flex-start;
+    }
+
+
+
+
+    /*============= Blog 02 ==============*/
+    .blog-page-two .single-blog-style1 .img-box .overlay-content {
+        left: 20px;
+        bottom: 16px;
+    }
+
+    .blog-page-two .single-blog-style1 .img-box .overlay-content .title h3 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+
+
+    /*============= Blog 03 ==============*/
+    .blog-details__text1 .title h2 {
+        font-size: 30px;
+    }
+
+    .blog-details__img2 ul li+li {
+        margin-top: 20px;
+    }
+
+    .blog-details__text3 .title h2 {
+        font-size: 25px;
+    }
+
+    .blog-details__tag {
+        display: block;
+    }
+
+    .blog-details__tag .blog-post {
+        display: block;
+    }
+
+    .blog-details__tag .blog-post ul {
+        padding-left: 0;
+        padding-top: 10px;
+    }
+
+    .blog-details__tag .blog-social {
+        padding-top: 15px;
+    }
+
+    .comment-box {
+        flex-direction: column;
+    }
+
+    .comment-box .content-box {
+        margin-left: 0px;
+        text-align: center;
+        padding-top: 23px;
+    }
+
+
+
+
+    /*============= Yachts 01 ==============*/
+    .yacht-list-style1__sidebar {
+        margin-right: 0px;
+    }
+
+    .single-yacht-list-style1-sidebar {
+        padding: 53px 20px 0px;
+    }
+
+    .yacht-list-style1__right {
+        margin-top: 50px;
+    }
+
+    .yacht-list-style1__img {
+        margin-right: 0px;
+    }
+
+    .yacht-list-style1__content {
+        border-top: none;
+        border-left: 1px solid var(--thm-border-color);
+        margin-left: 0px;
+        padding: 27px 15px 30px;
+    }
+
+    .yacht-list-style1__content .top-box .title-box {
+        display: block;
+    }
+
+    .yacht-list-style1__content .top-box .title-box .rating {
+        margin-top: 10px;
+    }
+
+    .yacht-list-style1__content .top-box .title-box .text h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+
+
+
+    /*======== Yachts Details =========*/
+    .yacht-details-style1__left-img {
+        margin-right: 0px;
+    }
+
+    .yacht-details-style1__left-top .title-box h2 {
+        font-size: 30px;
+    }
+
+    .yacht-details-style1__left-top .list-item1 {
+        flex-direction: column;
+        padding: 21px 30px 21px;
+    }
+
+    .yacht-details-style1__left-top .list-item1 li+li {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+
+    .yacht-details-style1__right {
+        margin-top: 50px;
+    }
+
+    .yacht-details-style1__right-img li+li {
+        margin-top: 10px;
+    }
+
+    .yacht-details-style1__left-form form .rating-box ul {
+        display: block;
+    }
+
+    .yacht-details-style1__left-form form .rating-box ul li+li {
+        margin-top: 10px;
+    }
+
+
+
+    /*======== Yachts Details 02 =========*/
+    .yacht-details-style2__left {
+        margin-right: 0px;
+    }
+
+    .yacht-details-style2-left__form {
+        padding: 29px 15px 40px;
+    }
+
+    .yacht-details-style2__left-list {
+        padding: 23px 15px 33px;
+    }
+
+    .yacht-details-style2__left-list-item li .text1 {
+        max-width: 190px;
+    }
+
+    .yacht-details-style2__right {
+        margin-top: 50px;
+    }
+
+    .yacht-details-style2__right .content-box1 .title h2 {
+        font-size: 30px;
+    }
+
+    .yacht-details-style2__right ul li+li {
+        margin-top: 10px;
+    }
+
+    .yacht-details-style2__right-form .inner-title h3 {
+        font-size: 30px;
+    }
+
+
+
+    /*======== Yachts Details 03 =========*/
+    .yacht-details-style3__img .overlay-content {
+        position: relative;
+        display: block;
+        padding: 27px 20px 28px;
+    }
+
+    .yacht-details-style3__img .overlay-content .left h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .yacht-details-style3__img .overlay-content .right {
+        padding-left: 0px;
+        margin-top: 20px;
+    }
+
+    .yacht-details-style3__yacht-info .inner-title h2 {
+        font-size: 30px;
+    }
+
+
+
+    /*======== Yachts Details 03 =========*/
+    .yacht-details-style3__facilities-single {
+        margin-bottom: 30px;
+    }
+
+    .yacht-details-style3__facilities .text-box {
+        padding-top: 0px;
+    }
+
+    .yacht-details-style3__facilities .inner-title h2 {
+        font-size: 30px;
+    }
+
+
+
+
+    /*======== Team Details =========*/
+    .team-details__content .title-box1 h2 {
+        font-size: 40px;
+    }
+
+    .team-details__content .title-box2 h2 {
+        font-size: 26px;
+    }
+
+    .team-details__content .title-box3 h2 {
+        font-size: 26px;
+    }
+
+    .contact__form form .inner-title h2 {
+        font-size: 26px;
+    }
+
+    .team-details__img {
+        margin-left: 0px;
+        margin-top: 50px;
+    }
+
+
+
+
+
+    /*======= 404 Page ==================*/
+    .error-page__content .big-title {
+        font-size: 170px;
+    }
+
+    .error-page__content .title h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .error-page__content .text p br {
+        display: none;
+    }
+
+
+
+
+    /*============== Faq Page =============*/
+    .faq-style2__inner ul+ul {
+        margin-top: 20px;
+    }
+
+    .accordion-box .block .acc-btn h3 {
+        font-size: 23px;
+    }
+
+
+
+    /*============== Shop 01 =============*/
+    .products-content-box {
+        margin-top: 60px;
+        margin-left: 0px;
+    }
+
+    .shop-page-top-info_inner {
+        flex-direction: column;
+    }
+
+
+
+    /*============== Shop Details =============*/
+    .products-details__right {
+        margin-left: 0px;
+        margin-top: 60px;
+    }
+
+    .products-details__right .title h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .products-details__right .price h2 {
+        font-size: 25px;
+        line-height: 29px;
+    }
+
+    .products-details-tab-box {
+        padding-left: 0px;
+    }
+
+    .products-details__tab-btn {
+        position: relative;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .products-details__tab-btn .tabs-button-box {
+        position: relative;
+        display: flex;
+        align-items: center;
+    }
+
+    .products-details__tab-btn .tabs-button-box .tab-btn-item {
+        margin-bottom: 0px;
+    }
+
+    .products-details__tab-btn .tabs-button-box li+li {
+        margin-left: 5px;
+    }
+
+    .products-details__right .size-box ul li+li {
+        margin-left: 5px;
+    }
+
+    .products-specification-box ul li .left {
+        width: 115px;
+        padding: 12px 10px 12px;
+    }
+
+    .products-specification-box ul li .right {
+        padding-left: 10px;
+    }
+
+    .products-description-box .inner-title h3 {
+        font-size: 25px;
+        line-height: 25px;
+    }
+
+    .products-features-box .inner-title h3 {
+        font-size: 25px;
+        line-height: 25px;
+    }
+
+
+    .products-specification-box .inner-title h3 {
+        font-size: 25px;
+        line-height: 25px;
+    }
+
+
+
+    /*============== Shop Cart =============*/
+    .cart-button-box {
+        flex-direction: column;
+    }
+
+    .update-cart-btn-box {
+        margin-top: 20px;
+    }
+
+    .cart-button-box .apply-coupon .inner {
+        padding-left: 0px;
+    }
+
+    .cart-button-box .apply-coupon input[type="text"] {
+        position: relative;
+        width: 100%;
+    }
+
+    .cart-button-box .apply-coupon .apply-coupon-button {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+
+    .update-cart-btn-box {
+        flex-direction: column;
+    }
+
+    .update-cart-btn-box button {
+        width: 100%;
+        display: block;
+    }
+
+    .update-cart-btn-box button+button {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+
+
+
+    /*============== Shop Checkout =============*/
+    .product-details-info-box {
+        margin-top: 30px;
+    }
+
+    .checkout-form {
+        padding: 60px 15px 54px;
+    }
+
+    .payment-info .accordion-box .block .acc-content {
+        padding: 4px 15px 30px;
+    }
+
+    .payment-input-box {
+        padding: 30px 10px 10px;
+    }
+
+    .shop-page-title h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .payment-info .accordion-box .block .acc-btn {
+        padding: 16px 15px 18px;
+    }
+
+    .payment-info .accordion-box .block .acc-btn h3 {
+        font-size: 14px;
+    }
+
+
+
+    /*============== Shop Login =============*/
+    .login-style1__form .inner-title h2 {
+        font-size: 40px;
+    }
+
+    .login-style1__form form .google-facebook a {
+        font-size: 14px;
+    }
+
+    .login-style1__form form {
+        padding: 40px 10px 53px;
+    }
+
+    .login-style1__form form .create-account {
+        max-width: 185px;
+        margin: 0 auto;
+    }
+
+
+
+
+    .single-activities-style1 .content-box .icon {
+        top: -90px;
+        right: 40px;
+    }
+
+
+
+
+    .footer-main {
+        padding: 100px 0px 30px;
+    }
+
+    .single-footer-widget {
+        margin-bottom: 50px;
+    }
+
+    .single-footer-widget.ml80 {
+        margin-left: 0px;
+    }
+
+    .single-footer-widget.ml50 {
+        margin-left: 0px;
+    }
+
+    .single-footer-widget.ml30 {
+        margin-left: 0px;
+    }
+
+    .footer-bottom .bottom-inner {
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .copyright-text {
+        margin-bottom: 12px;
+    }
+
+
+
+    .yacht-style2-carousel.owl-nav-style-one.owl-theme .owl-stage-outer {
+        margin-right: 0;
+    }
+
+
+
+    .process-style1 .container {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .single-process-style1 .process-arrow {
+        display: none;
+    }
+
+    .single-process-style1 .process-arrow2 {
+        display: none;
+    }
+
+    li:last-child .single-process-style1 {
+        float: none;
+        width: fit-content;
+    }
+
+    li:nth-child(2) .single-process-style1 {
+        width: fit-content;
+    }
+
+    .single-process-style1__inner {
+        width: 290px;
+        margin: 0 auto;
+    }
+
+
+
+
+
+    /*========  Tour Details =========*/
+    .tour-details-style1__video .video-popup {
+        font-size: 16px;
+        width: 60px;
+        height: 60px;
+    }
+
+    .tour-details-style1__content .title-box h2 {
+        font-size: 30px;
+    }
+
+    .tour-details-info-box ul {
+        display: block;
+    }
+
+    .tour-details-info-box ul li+li {
+        margin-top: 20px;
+    }
+
+    .tour-details-text-box2 .inner-content::before {
+        display: none;
+    }
+
+    .tour-details-text-box2 .inner-content .left-text.color {
+        margin-top: 18px;
+    }
+
+    .accordion-box-style1 .accordion .accord-btn.active .left::before {
+        width: 70px;
+    }
+
+    .accordion-box-style1 .accordion .accord-btn::after {
+        right: 10px;
+    }
+
+    .accordion-box-style1 .accordion .accord-btn .left {
+        border-right: none;
+    }
+
+    .total-review-box__inner {
+        padding: 32px 30px 33px;
+        flex-direction: column;
+    }
+
+    .total-review-box__inner .left-box {
+        padding-bottom: 30px;
+    }
+
+    .single-add-review__img {
+        position: relative;
+    }
+
+    .single-add-review {
+        padding-left: 0px;
+    }
+
+    .single-add-review__content-top .replay {
+        position: relative;
+        margin-top: 20px;
+    }
+
+    .single-add-review__content {
+        padding: 31px 19px 22px;
+        margin-top: 30px;
+    }
+
+    .single-add-review__content-bottom ul {
+        display: block;
+    }
+
+    .single-add-review__content-bottom ul li+li {
+        margin-left: 0px;
+        margin-top: 12px;
+    }
+
+    .single-add-review.style2 {
+        margin-left: 0px;
+    }
+
+    .tour-details-style1__sidebar {
+        margin-left: 0px;
+    }
+
+    .book-this-yacht-style1 {
+        padding: 22px 10px 35px;
+    }
+
+
+
+    /*========  Contact Us =========*/
+    .single-contact-style1 .content-box {
+        padding: 75px 15px 43px;
+    }
+
+    .contact-form {
+        margin-bottom: 50px;
+    }
+
+    .contact-form form .btn-box .btn-one {
+        display: block;
+        width: 100%;
+    }
+
+
+
+    .single-yacht-size-style1 {
+        display: block;
+        text-align: center;
+    }
+
+    li:last-child .single-yacht-size-style1 {
+        float: none;
+    }
+
+
+
+    .destinations-style2__inner {
+        padding: 120px 0px 120px;
+    }
+
+
+
+    .single-project-style1 .overlay-content h2 {
+        font-size: 28px;
+        line-height: 34px;
+    }
+
+    .single-project-style1 .img-box .overlay-icon a {
+        font-size: 28px;
+    }
+
+
+
+
+    .yacht-tour-style1__form form ul {
+        flex-direction: column;
+        background-color: transparent;
+        padding: 20px 20px 20px;
+    }
+
+    .tour-plan-style1 .container {
+        max-width: 530px;
+    }
+
+    .tour-plan-style1__sidebar {
+        margin-top: 70px;
+        margin-right: 0px;
+    }
+
+    .tour-plan__sidebar-offer-single .img {
+        margin-right: 0;
+    }
+
+    .tour-plan__sidebar-offer-single .content {
+        margin-left: 0;
+    }
+
+    .yacht-tour-style1__form--style2 form ul li.btn-box button.btn-one {
+        line-height: 40px;
+    }
+
+    .single-tour-plan-style1 .img-box .overlay-content {
+        position: relative;
+        display: block;
+        left: 0;
+        bottom: 0px;
+        right: 0;
+        max-width: 100%;
+        width: 100%;
+        padding: 21px 0px 0px;
+    }
+
+    .single-tour-plan-style1 .img-box .overlay-content .left-box {
+        padding-right: 0px;
+        margin-bottom: 16px;
+    }
+
+    .single-list-tour-plan-style1 .img-box {
+        margin-right: 0px;
+    }
+
+    .single-list-tour-plan-style1 .content-box {
+        padding: 30px 30px 40px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .tour-plan-style1__top .yacht-tour-style1__tab-btn ul li {
+        padding: 9px 25px 9px;
+    }
+
+
+
+    .breadcrumb-style1 .inner-content {
+        padding: 249px 0px 134px;
+    }
+
+    .breadcrumb-style1 .title h2 {
+        font-size: 50px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------
+////////////////////////////////
+# Main Header All Responsice Css
+////////////////////////////////
+--------------------------------------------------------------*/
+
+
+@media only screen and (min-width: 1200px) and (max-width: 1700px) {}
+
+
+
+
+
+@media only screen and (min-width: 1200px) and (max-width: 1600px) {
+
+    /** Header One Css**/
+    .login-signup-box {
+        display: none;
+    }
+
+    .header-contact-info-style1 {
+        margin-right: 20px;
+    }
+
+    .main-header-style1 .main-menu .main-menu__list>li+li {
+        margin-left: 30px;
+    }
+
+
+    /** Header Four Css**/
+    .logo-box-style3 a {
+        right: -100px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media only screen and (min-width: 1200px) and (max-width: 1350px) {
+
+    /** Header One Css**/
+    .header-contact-info-style1 {
+        display: none;
+    }
+
+
+
+    /** Header Two Css**/
+    .main-header-style2 .main-menu .main-menu__list>li+li {
+        margin-left: 30px;
+    }
+
+
+
+    .logo-box-style6 a {
+        right: -100px;
+    }
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+    .main-menu .mobile-nav__toggler {
+        display: inline-block;
+        padding: 30px 0 30px;
+        line-height: 0;
+    }
+
+    .main-menu .mobile-nav__toggler--style2 {
+        padding: 20px 0 20px;
+    }
+
+
+    /** Header Four Css**/
+    .main-header-style4 .main-menu .mobile-nav__toggler {
+        padding: 25px 0 25px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    .main-menu .mobile-nav__toggler {
+        display: inline-block;
+        padding: 25px 0 25px;
+        line-height: 0;
+    }
+
+    .main-menu .mobile-nav__toggler--style2 {
+        padding: 20px 0 20px;
+    }
+
+
+    /** Header One Css**/
+    .login-signup-box {
+        display: none;
+    }
+
+
+    /** Header THree Css**/
+    .main-header-style2__top {
+        padding: 15px 0px 15px;
+    }
+
+    .main-header-style2__top-middle {
+        margin: 8px 0 12px;
+    }
+
+    .main-header-style2__top-inner {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+
+    /** Header Four Css**/
+    .main-header-style4__top {
+        display: none;
+    }
+
+    .main-header-style4__bottom-right {
+        display: none;
+    }
+
+    .logo-box-style3 {
+        position: relative;
+        max-width: 180px;
+        margin: 0;
+        z-index: 3;
+    }
+
+    .logo-box-style3 a {
+        width: 180px;
+        height: 120px;
+    }
+
+    .main-header-style4__bottom {
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+
+    .main-header-style4 .main-menu .mobile-nav__toggler {
+        padding: 45px 0 45px;
+    }
+
+
+
+    /** Header Five Css**/
+    .main-header-style5 .logo-box-style3 a {
+        width: 180px;
+        height: 120px;
+    }
+
+    .main-header-style5 .main-menu .mobile-nav__toggler {
+        padding: 45px 0 45px;
+    }
+
+
+
+
+    .main-header-style4--white {
+        position: absolute;
+        min-height: 120px;
+        background-color: rgba(255, 255, 255, 0.10);
+    }
+
+    .logo-box-style6 a {
+        width: 180px;
+        height: 120px;
+    }
+
+    .logo-box-style6 {
+        position: absolute;
+        top: 0;
+        left: -15px;
+        bottom: 0px;
+        right: 0;
+        max-width: 180px;
+        margin: 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+@media (max-width: 767px) {
+
+    .main-menu .mobile-nav__toggler {
+        display: inline-block;
+        padding: 25px 0 25px;
+        line-height: 0;
+    }
+
+    .main-menu .mobile-nav__toggler--style2 {
+        padding: 20px 0 20px;
+    }
+
+
+
+    /** Header One Css**/
+    .main-header-style1__content .container {
+        padding-left: 0;
+        padding-right: 20px;
+    }
+
+    .main-header-style1__content-right {
+        display: none;
+    }
+
+    .main-header-style1__content-left {
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .main-header-style1 .main-menu-style1__left .main-menu-box {
+        margin-left: 0px;
+    }
+
+
+
+    /** Header Two Css**/
+    .main-header-style2 .main-header-style2__content-right {
+        display: none;
+    }
+
+
+
+    /** Header THree Css**/
+    .main-header-style2__top {
+        display: none;
+    }
+
+
+
+
+    /** Header Four Css**/
+    .main-header-style4__top {
+        display: none;
+    }
+
+    .main-header-style4__bottom-right {
+        display: none;
+    }
+
+    .logo-box-style3 {
+        position: relative;
+        max-width: 180px;
+        margin: 0;
+        z-index: 3;
+    }
+
+    .logo-box-style3 a {
+        width: 180px;
+        height: 120px;
+    }
+
+    .main-header-style4__bottom {
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+
+    .main-header-style4 .main-menu .mobile-nav__toggler {
+        padding: 45px 0 45px;
+    }
+
+
+
+    /** Header Five Css**/
+    .main-header-style5 .logo-box-style3 a {
+        width: 180px;
+        height: 120px;
+    }
+
+    .main-header-style5 .main-menu .mobile-nav__toggler {
+        padding: 45px 0 45px;
+    }
+
+
+
+
+    .main-header-style4--white {
+        position: absolute;
+        min-height: 120px;
+        background-color: rgba(255, 255, 255, 0.10);
+    }
+
+    .logo-box-style6 a {
+        width: 180px;
+        height: 120px;
+    }
+
+    .logo-box-style6 {
+        position: absolute;
+        top: 0;
+        left: -15px;
+        bottom: 0px;
+        right: 0;
+        max-width: 180px;
+        margin: 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------
+///////////////////////////
+# Slider All Responsice Css
+///////////////////////////
+--------------------------------------------------------------*/
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {}
+
+
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+
+    /*======== Home 01 =========*/
+    .main-slider-style1 .big-title h2 {
+        font-size: 60px;
+        line-height: 1.2em;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    .main-slider__nav {
+        left: auto;
+        right: 50px;
+    }
+
+
+    /*======== Home 01 =========*/
+    .main-slider-style1 .big-title h2 {
+        font-size: 50px;
+        line-height: 1.2em;
+    }
+
+
+    /*======== Home 03 =========*/
+    .banner-style1__content h2 {
+        font-size: 66px;
+    }
+
+    .banner-style1 .yacht-tour-style1__form--style2 form ul {
+        border-radius: 8px;
+    }
+
+    .banner-style1 .yacht-tour-style1__form--style2 form ul li.btn-box button.btn-one {
+        line-height: 40px;
+    }
+
+
+
+    /*======== Home 04 =========*/
+    .main-slider-style3 .content-box .sub-title h3 {
+        font-size: 40px;
+    }
+
+    .main-slider-style3 .content-box .big-title h2 {
+        font-size: 60px;
+    }
+
+
+
+    /*======== Home 05 =========*/
+    .main-slider-style4 .container {
+        padding: 272px 20px 195px;
+    }
+
+    .main-slider-style4 .big-title h2 {
+        font-size: 60px;
+    }
+
+    .main-slider-style4 .big-title h2 br {
+        display: none;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media only screen and (max-width: 767px) {
+    .banner-slider-nav {
+        display: none;
+    }
+
+
+    /*======== Home 01 =========*/
+    .main-slider-style1 .big-title h2 {
+        font-size: 40px;
+        line-height: 1.2em;
+    }
+
+
+    /*======== Home 02 =========*/
+    .main-slider-style2 .content-box {
+        padding: 48px 30px 60px;
+    }
+
+    .main-slider-style2 .content-box .big-title h2 {
+        font-size: 40px;
+        line-height: 1.0em;
+    }
+
+    .main-slider-style2 .content-box .big-title h2 br {
+        display: none;
+    }
+
+
+    /*======== Home 03 =========*/
+    .banner-style1__content h2 {
+        font-size: 50px;
+    }
+
+    .banner-style1 .yacht-tour-style1__form--style2 form ul {
+        border-radius: 8px;
+    }
+
+    .banner-style1 .yacht-tour-style1__form--style2 form ul li.btn-box button.btn-one {
+        line-height: 40px;
+    }
+
+
+    /*======== Home 04 =========*/
+    .main-slider-style3 .content-box .sub-title h3 {
+        font-size: 40px;
+    }
+
+    .main-slider-style3 .content-box .big-title h2 {
+        font-size: 50px;
+    }
+
+
+
+    /*======== Home 05 =========*/
+    .main-slider-style4 .container {
+        padding: 272px 20px 195px;
+    }
+
+    .main-slider-style4 .big-title h2 {
+        font-size: 40px;
+    }
+
+    .main-slider-style4 .big-title h2 br {
+        display: none;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 1199px) {
+    .order11 {
+        order: 1;
+    }
+
+    .order22 {
+        order: 2;
+    }
+
+}
+
+
+
+
+
+
+@media only screen and (max-width: 991px) {
+    .order111 {
+        order: 1;
+    }
+
+    .order222 {
+        order: 2;
+    }
+
+}

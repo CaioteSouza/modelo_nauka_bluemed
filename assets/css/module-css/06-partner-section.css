@@ -1,0 +1,120 @@
+/*** 
+========================
+    Partner Style1 Css
+========================
+***/
+.partner-style1 {
+    background-color: var(--thm-white);
+    padding: 116px 0px 120px;
+}
+
+.partner-style1__title {
+    position: relative;
+    display: block;
+}
+
+.partner-style1__title h2 {
+    font-size: 48px;
+    line-height: 1.1em;
+}
+
+.partner-style1__inner-box {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    padding-top: 52px;
+}
+
+.partner-style1__single {
+    position: relative;
+    display: block;
+}
+
+.partner-style1__single a {
+    position: relative;
+    display: block;
+    background: transparent;
+    border: 1px solid var(--thm-border-color);
+    transition: all 500ms ease;
+}
+
+.partner-style1__single:hover a {
+    border: 1px solid var(--thm-primary-color);
+}
+
+.partner-style1__single a::before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    background: var(--thm-primary-color);
+    transform: perspective(400px) scaleX(0);
+    transform-origin: center;
+    transition: all 500ms ease;
+    z-index: -1;
+}
+
+.partner-style1__single:hover a::before {
+    transform: perspective(400px) scaleX(1.0);
+}
+
+.partner-style1__single a img {
+    width: auto;
+}
+
+.partner-style1__single a .overlay-img {
+    position: absolute;
+    display: flex;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    transition: all 500ms ease;
+}
+
+.partner-style1__single:hover a .overlay-img {
+    opacity: 1;
+}
+
+.partner-style1__single a .overlay-img img {
+    width: auto;
+}
+
+
+/*** 
+=================================
+    Partner Style1--style2 Css
+=================================
+***/
+.partner-style1--style2 {
+    padding: 0px 0px 120px;
+}
+
+.partner-style1__inner-box--style2 {
+    padding-top: 0;
+}
+
+
+
+/*** 
+=================================
+    Partner Style1--style3 Css
+=================================
+***/
+.partner-style1--style3 {
+    background-color: transparent;
+    padding: 0px 0px 0px;
+}
+
+.partner-style1--style3 .partner-style1__single a {
+    background: var(--thm-black-bg-2);
+    border: 1px solid rgb(255, 255, 255, .1);
+}
+
+.partner-style1--style3 .partner-style1__single:hover a {
+    background: transparent;
+    border: 1px solid var(--thm-primary-color);
+}
