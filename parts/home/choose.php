@@ -1,5 +1,5 @@
 <!--Start Choose Style1-->
-<section class="choose-style1">
+<section class="choose-style1 choose-style1--style3">
   <div class="choose-style1__shape1 wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2000ms">
     <img class="float-bob-y" src="assets/images/shapes/choose-1-shape1.png" alt="Shape">
   </div>

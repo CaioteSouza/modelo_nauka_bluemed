@@ -7,7 +7,7 @@
 
                             <div class="logo-box-style1">
                                 <a href="index.php">
-                                    <img src="assets/images/resources/logo-1.png" alt="Awesome Logo" title="">
+                                    <img src="assets/images/resources/logo-bluemed.png" alt="Awesome Logo" title="">
                                 </a>
                             </div>
 
@@ -17,7 +17,7 @@
                                     <div class="main-menu__wrapper-inner">
                                         <div class="sticky-logo-box-style1">
                                             <a href="index.php">
-                                                <img src="assets/images/resources/logo-1.png" alt="Awesome Logo"
+                                                <img src="assets/images/resources/logo-bluemed-white.png" alt="Awesome Logo"
                                                     title="">
                                             </a>
                                         </div>
@@ -40,7 +40,7 @@
 
 
                         <div class="main-header-style1__content-right">
-                            <div class="login-signup-box">
+                            <!-- <div class="login-signup-box">
                                 <ul>
                                     <li>
                                         <a href="contact.php">Login</a>
@@ -53,10 +53,11 @@
                             <div class="header-contact-info-style1">
                                 <p>Call:</p>
                                 <a href="tel:188822333">031-783-7951</a>
-                            </div>
+                            </div> -->
                             <div class="header-button-style1">
                                 <a class="btn-one" href="#">
-                                    <span class="txt">Book Now</span>
+                                    <i class="icon-whatsapp"></i>
+                                    <span class="txt">Contrate Já!</span>
                                     <i class="icon-thin-arrow"></i>
                                 </a>
                             </div>

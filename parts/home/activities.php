@@ -1,11 +1,7 @@
-<!--Start Activities Style1-->
-<section class="activities-style1">
-  <div class="shape1 wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2000ms">
-    <img class="float-bob-y" src="assets/images/shapes/activities-1-shape1.png" alt="Shape">
-  </div>
-  <div class="activities-style1__big-title">
-    Activities
-  </div>
+<!--Start Activities Style2-->
+<section class="activities-style2 activities-style2--style2">
+  <div class="activities-style2--style2__bg"
+    style="background-image: url(assets/images/backgrounds/activities-style2--style2__bg.jpg);"></div>
   <div class="container">
     <div class="sec-title text-center">
       <div class="sub-title">
@@ -15,254 +11,101 @@
     </div>
     <div class="row">
 
-      <div class="col-xl-12">
-        <div class="owl-carousel owl-theme thm-owl__carousel activities-style1-carousel owl-dot-style1"
-          data-owl-options='{
-                            "loop": true,
-                            "autoplay": false,
-                            "margin": 30,
-                            "nav": false,
-                            "dots": true,
-                            "smartSpeed": 500,
-                            "autoplayTimeout": 10000,
-                            "navText": ["<span class=\"left icon-prev1\"></span>","<span class=\"icon-next\"></span>"],
-                            "responsive": {
-                                    "0": {
-                                        "items": 1
-                                    },
-                                    "768": {
-                                        "items": 2
-                                    },
-                                    "992": {
-                                        "items": 2
-                                    },
-                                    "1200": {
-                                        "items": 3
-                                    }
-                                }
-                            }'>
-
-
-          <!--Start Single Activities Style1-->
-          <div class="single-activities-style1 wow fadeInLeft" data-wow-duration="1500ms"
-            data-wow-delay="000ms">
-            <div class="img-box">
-              <div class="inner">
-                <img src="assets/images/resources/activities-v1-1.jpg" alt="Image">
-              </div>
+      <!--Start Single Activities Style2-->
+      <div class="col-xl-4 col-lg-6 col-md-6">
+        <div class="single-activities-style2" data-aos="fade-up" data-aos-easing="linear"
+          data-aos-duration="1500">
+          <div class="img-box">
+            <div class="inner">
+              <img src="assets/images/resources/activities-v2-1.jpg" alt="Image">
             </div>
-            <div class="content-box">
-              <div class="icon icon-1">
-                <i class="icon-ship-2"></i>
-              </div>
-              <div class="title">
-                <h3><a href="#">Jet and Barefoot <br>Skiing</a></h3>
-              </div>
-              <div class="btn-box">
-                <a href="#">
-                  <i class="icon-arrow-right-1"></i>
-                  Learn More
-                </a>
-              </div>
+            <div class="time">
+              <p>2 Hour’s</p>
+            </div>
+            <div class="icon icon-1">
+              <i class="icon-ship-2"></i>
             </div>
           </div>
-          <!--End Single Activities Style1-->
-          <!--Start Single Activities Style1-->
-          <div class="single-activities-style1 wow fadeInUp" data-wow-duration="1500ms"
-            data-wow-delay="000ms">
-            <div class="img-box">
-              <div class="inner">
-                <img src="assets/images/resources/activities-v1-2.jpg" alt="Image">
-              </div>
+          <div class="content-box">
+            <div class="title">
+              <h3><a href="#">Jet and Barefoot Skiing</a></h3>
             </div>
-            <div class="content-box">
-              <div class="icon">
-                <i class="icon-ship"></i>
-              </div>
-              <div class="title">
-                <h3><a href="#">Wake and Skim <br>Boarding</a></h3>
-              </div>
-              <div class="btn-box">
-                <a href="#">
-                  <i class="icon-arrow-right-1"></i>
-                  Learn More
-                </a>
-              </div>
+            <div class="text">
+              <p>Jet and barefoot skiing offer thrilling water</p>
+            </div>
+            <div class="btn-box">
+              <a class="btn-one" href="#">
+                <span class="txt">Book Now</span>
+              </a>
             </div>
           </div>
-          <!--End Single Activities Style1-->
-          <!--Start Single Activities Style1-->
-          <div class="single-activities-style1 wow fadeInRight" data-wow-duration="1500ms"
-            data-wow-delay="000ms">
-            <div class="img-box">
-              <div class="inner">
-                <img src="assets/images/resources/activities-v1-3.jpg" alt="Image">
-              </div>
-            </div>
-            <div class="content-box">
-              <div class="icon">
-                <i class="icon-water-surfing"></i>
-              </div>
-              <div class="title">
-                <h3><a href="#">Wind and Water <br>Surfing</a></h3>
-              </div>
-              <div class="btn-box">
-                <a href="#">
-                  <i class="icon-arrow-right-1"></i>
-                  Learn More
-                </a>
-              </div>
-            </div>
-          </div>
-          <!--End Single Activities Style1-->
-          <!--Start Single Activities Style1-->
-          <div class="single-activities-style1 wow fadeInLeft" data-wow-duration="1500ms"
-            data-wow-delay="000ms">
-            <div class="img-box">
-              <div class="inner">
-                <img src="assets/images/resources/activities-v1-1.jpg" alt="Image">
-              </div>
-            </div>
-            <div class="content-box">
-              <div class="icon icon-1">
-                <i class="icon-ship-2"></i>
-              </div>
-              <div class="title">
-                <h3><a href="#">Jet and Barefoot <br>Skiing</a></h3>
-              </div>
-              <div class="btn-box">
-                <a href="#">
-                  <i class="icon-arrow-right-1"></i>
-                  Learn More
-                </a>
-              </div>
-            </div>
-          </div>
-          <!--End Single Activities Style1-->
-          <!--Start Single Activities Style1-->
-          <div class="single-activities-style1 wow fadeInUp" data-wow-duration="1500ms"
-            data-wow-delay="000ms">
-            <div class="img-box">
-              <div class="inner">
-                <img src="assets/images/resources/activities-v1-2.jpg" alt="Image">
-              </div>
-            </div>
-            <div class="content-box">
-              <div class="icon">
-                <i class="icon-ship"></i>
-              </div>
-              <div class="title">
-                <h3><a href="#">Wake and Skim <br>Boarding</a></h3>
-              </div>
-              <div class="btn-box">
-                <a href="#">
-                  <i class="icon-arrow-right-1"></i>
-                  Learn More
-                </a>
-              </div>
-            </div>
-          </div>
-          <!--End Single Activities Style1-->
-          <!--Start Single Activities Style1-->
-          <div class="single-activities-style1 wow fadeInRight" data-wow-duration="1500ms"
-            data-wow-delay="000ms">
-            <div class="img-box">
-              <div class="inner">
-                <img src="assets/images/resources/activities-v1-3.jpg" alt="Image">
-              </div>
-            </div>
-            <div class="content-box">
-              <div class="icon">
-                <i class="icon-water-surfing"></i>
-              </div>
-              <div class="title">
-                <h3><a href="#">Wind and Water <br>Surfing</a></h3>
-              </div>
-              <div class="btn-box">
-                <a href="#">
-                  <i class="icon-arrow-right-1"></i>
-                  Learn More
-                </a>
-              </div>
-            </div>
-          </div>
-          <!--End Single Activities Style1-->
-          <!--Start Single Activities Style1-->
-          <div class="single-activities-style1 wow fadeInLeft" data-wow-duration="1500ms"
-            data-wow-delay="000ms">
-            <div class="img-box">
-              <div class="inner">
-                <img src="assets/images/resources/activities-v1-1.jpg" alt="Image">
-              </div>
-            </div>
-            <div class="content-box">
-              <div class="icon icon-1">
-                <i class="icon-ship-2"></i>
-              </div>
-              <div class="title">
-                <h3><a href="#">Jet and Barefoot <br>Skiing</a></h3>
-              </div>
-              <div class="btn-box">
-                <a href="#">
-                  <i class="icon-arrow-right-1"></i>
-                  Learn More
-                </a>
-              </div>
-            </div>
-          </div>
-          <!--End Single Activities Style1-->
-          <!--Start Single Activities Style1-->
-          <div class="single-activities-style1 wow fadeInUp" data-wow-duration="1500ms"
-            data-wow-delay="000ms">
-            <div class="img-box">
-              <div class="inner">
-                <img src="assets/images/resources/activities-v1-2.jpg" alt="Image">
-              </div>
-            </div>
-            <div class="content-box">
-              <div class="icon">
-                <i class="icon-ship"></i>
-              </div>
-              <div class="title">
-                <h3><a href="#">Wake and Skim <br>Boarding</a></h3>
-              </div>
-              <div class="btn-box">
-                <a href="#">
-                  <i class="icon-arrow-right-1"></i>
-                  Learn More
-                </a>
-              </div>
-            </div>
-          </div>
-          <!--End Single Activities Style1-->
-          <!--Start Single Activities Style1-->
-          <div class="single-activities-style1 wow fadeInRight" data-wow-duration="1500ms"
-            data-wow-delay="000ms">
-            <div class="img-box">
-              <div class="inner">
-                <img src="assets/images/resources/activities-v1-3.jpg" alt="Image">
-              </div>
-            </div>
-            <div class="content-box">
-              <div class="icon">
-                <i class="icon-water-surfing"></i>
-              </div>
-              <div class="title">
-                <h3><a href="#">Wind and Water <br>Surfing</a></h3>
-              </div>
-              <div class="btn-box">
-                <a href="#">
-                  <i class="icon-arrow-right-1"></i>
-                  Learn More
-                </a>
-              </div>
-            </div>
-          </div>
-          <!--End Single Activities Style1-->
-
         </div>
       </div>
+      <!--End Single Activities Style2-->
+      <!--Start Single Activities Style2-->
+      <div class="col-xl-4 col-lg-6 col-md-6">
+        <div class="single-activities-style2" data-aos="fade-up" data-aos-easing="linear"
+          data-aos-duration="2000">
+          <div class="img-box">
+            <div class="inner">
+              <img src="assets/images/resources/activities-v2-2.jpg" alt="Image">
+            </div>
+            <div class="time">
+              <p>5 Hour’s</p>
+            </div>
+            <div class="icon">
+              <i class="icon-ship"></i>
+            </div>
+          </div>
+          <div class="content-box">
+            <div class="title">
+              <h3><a href="#">Wake and Skim Boarding</a></h3>
+            </div>
+            <div class="text">
+              <p>Wakeboarding involves riding a board over</p>
+            </div>
+            <div class="btn-box">
+              <a class="btn-one" href="#">
+                <span class="txt">Book Now</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--End Single Activities Style2-->
+      <!--Start Single Activities Style2-->
+      <div class="col-xl-4 col-lg-6 col-md-6">
+        <div class="single-activities-style2" data-aos="fade-up" data-aos-easing="linear"
+          data-aos-duration="2500">
+          <div class="img-box">
+            <div class="inner">
+              <img src="assets/images/resources/activities-v2-3.jpg" alt="Image">
+            </div>
+            <div class="time">
+              <p>8 Hour’s</p>
+            </div>
+            <div class="icon">
+              <i class="icon-water-surfing"></i>
+            </div>
+          </div>
+          <div class="content-box">
+            <div class="title">
+              <h3><a href="#">Wind and Water Surfing</a></h3>
+            </div>
+            <div class="text">
+              <p>It involves riding on a board equipped with</p>
+            </div>
+            <div class="btn-box">
+              <a class="btn-one" href="#">
+                <span class="txt">Book Now</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--End Single Activities Style2-->
+
     </div>
   </div>
 </section>
-<!--End Activities Style1-->
+<!--End Activities Style2-->

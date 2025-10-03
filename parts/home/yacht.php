@@ -1,132 +1,104 @@
-<!--Start Yacht Tour Style1-->
-<section class="yacht-tour-style1">
-  <div class="yacht-tour-style1__pattern"
-    style="background-image: url(assets/images/pattern/yacht-tour-1-pattern1.png);">
+<!--Start Yacht Style4-->
+<section class="yacht-style4 yacht-style4--style2">
+  <div class="yacht-style4--style2__border-line"></div>
+  <div class="yacht-style4__shape2 wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2000ms">
+    <img class="float-bob-y" src="assets/images/shapes/yacht-style4__shape2.png" alt="Shape">
   </div>
+  <div class="yacht-style4--style2__big-title">Collection</div>
   <div class="container">
-    <div class="yacht-tour-style1__inner">
+    <div class="sec-title text-center">
+      <div class="sub-title">
+        <h4>Yacht Collection</h4>
+      </div>
+      <h2>Trending Yachts</h2>
+    </div>
+    <div class="row">
 
-      <div class="yacht-tour-style1__tab">
-        <div class="yacht-tour-style1__tab-btn">
-          <ul class="tabs-button-box clearfix">
-            <li data-tab="#yacht" class="tab-btn-item active-btn-item">
-              <h4>Yacht</h4>
-            </li>
-            <li data-tab="#tour" class="tab-btn-item">
-              <h4>Tour</h4>
-            </li>
-          </ul>
-        </div>
-
-        <div class="tabs-content-box">
-
-          <!--Start Tab-->
-          <div class="tab-content-box-item tab-content-box-item-active" id="yacht">
-            <div class="yacht-tour-style1-tab-content-box-item">
-
-              <div class="single-yacht-tour-style1">
-                <div class="yacht-tour-style1__form">
-                  <form id="yacht-tour-style1__form" name="yacht-tour-style1__form" action="#"
-                    method="post">
-                    <ul class="clearfix">
-                      <li class="form-group icon1">
-                        <div class="select-box clearfix">
-                          <select class="wide">
-                            <option data-display="Choose Service">Choose Service
-                            </option>
-                            <option value="1">Choose Service</option>
-                            <option value="2">Choose Service</option>
-                            <option value="3">Choose Service</option>
-                          </select>
-                        </div>
-                      </li>
-                      <li class="form-group icon2">
-                        <input type="text" name="datein" placeholder="Check-in"
-                          id="datepicker">
-                      </li>
-                      <li class="form-group icon3">
-                        <input type="text" name="dateout" placeholder="Check-out"
-                          id="datepicker2">
-                      </li>
-                      <li class="form-group icon4">
-                        <div class="select-box clearfix">
-                          <select class="wide">
-                            <option data-display="Guests">Guests</option>
-                            <option value="1">Guests</option>
-                            <option value="2">Guests</option>
-                            <option value="3">Guests</option>
-                          </select>
-                        </div>
-                      </li>
-                      <li class="btn-box">
-                        <button class="btn-one">
-                          <span class="txt">Search</span>
-                        </button>
-                      </li>
-                    </ul>
-                  </form>
-                </div>
-              </div>
-
-            </div>
+      <!--Start Single Yacht Style4-->
+      <div class="col-xl-6 col-lg-6 col-md-6">
+        <div class="single-yacht-style4">
+          <div class="img-box">
+            <img src="assets/images/resources/yacht-v3-1.jpg" alt="Image">
           </div>
-          <!--End Tab-->
-
-          <!--Start Tab-->
-          <div class="tab-content-box-item" id="tour">
-            <div class="yacht-tour-style1-tab-content-box-item">
-
-              <div class="single-yacht-tour-style1">
-                <div class="yacht-tour-style1__form">
-                  <form id="yacht-tour-style1-form" name="yacht-tour-style1_form" action="#"
-                    method="post">
-                    <ul class="clearfix">
-                      <li class="form-group icon1">
-                        <div class="select-box clearfix">
-                          <select class="wide">
-                            <option data-display="Choose Service">Choose Service
-                            </option>
-                            <option value="1">Choose Service</option>
-                            <option value="2">Choose Service</option>
-                            <option value="3">Choose Service</option>
-                          </select>
-                        </div>
-                      </li>
-                      <li class="form-group icon2">
-                        <input type="text" name="datein" placeholder="Check-in"
-                          id="datepicker3">
-                      </li>
-                      <li class="form-group icon3">
-                        <input type="text" name="dateout" placeholder="Check-out"
-                          id="datepicker4">
-                      </li>
-                      <li class="form-group icon4">
-                        <div class="select-box clearfix">
-                          <select class="wide">
-                            <option data-display="Guests">Guests</option>
-                            <option value="1">Guests</option>
-                            <option value="2">Guests</option>
-                            <option value="3">Guests</option>
-                          </select>
-                        </div>
-                      </li>
-                      <li class="btn-box">
-                        <button class="btn-one">
-                          <span class="txt">Search</span>
-                        </button>
-                      </li>
-                    </ul>
-                  </form>
-                </div>
-              </div>
-
-            </div>
+          <div class="content-box text-center">
+            <h2><a href="#">Galibar Escort</a></h2>
+            <h3>$550/Day</h3>
           </div>
-          <!--End Tab-->
-
         </div>
       </div>
+      <!--End Single Yacht Style4-->
+      <!--Start Single Yacht Style4-->
+      <div class="col-xl-6 col-lg-6 col-md-6">
+        <div class="single-yacht-style4">
+          <div class="img-box">
+            <img src="assets/images/resources/yacht-v3-2.jpg" alt="Image">
+          </div>
+          <div class="content-box text-center">
+            <h2><a href="#">Luxury Boat</a></h2>
+            <h3>$450/Day</h3>
+          </div>
+        </div>
+      </div>
+      <!--End Single Yacht Style4-->
+      <!--Start Single Yacht Style4-->
+      <div class="col-xl-6 col-lg-6 col-md-6">
+        <div class="single-yacht-style4">
+          <div class="img-box">
+            <img src="assets/images/resources/yacht-v3-3.jpg" alt="Image">
+          </div>
+          <div class="content-box text-center">
+            <h2><a href="#">Cuddy Cabins</a></h2>
+            <h3>$280/Day</h3>
+          </div>
+        </div>
+      </div>
+      <!--End Single Yacht Style4-->
+      <!--Start Single Yacht Style4-->
+      <div class="col-xl-6 col-lg-6 col-md-6">
+        <div class="single-yacht-style4">
+          <div class="img-box">
+            <img src="assets/images/resources/yacht-v3-4.jpg" alt="Image">
+          </div>
+          <div class="content-box text-center">
+            <h2><a href="#">Cruise Yacht</a></h2>
+            <h3>$200/Day</h3>
+          </div>
+        </div>
+      </div>
+      <!--End Single Yacht Style4-->
+      <!--Start Single Yacht Style4-->
+      <div class="col-xl-6 col-lg-6 col-md-6">
+        <div class="single-yacht-style4">
+          <div class="img-box">
+            <img src="assets/images/resources/yacht-v3-5.jpg" alt="Image">
+          </div>
+          <div class="content-box text-center">
+            <h2><a href="#">Motor Boat</a></h2>
+            <h3>$650/Day</h3>
+          </div>
+        </div>
+      </div>
+      <!--End Single Yacht Style4-->
+      <!--Start Single Yacht Style4-->
+      <div class="col-xl-6 col-lg-6 col-md-6">
+        <div class="single-yacht-style4">
+          <div class="img-box">
+            <img src="assets/images/resources/yacht-v3-6.jpg" alt="Image">
+          </div>
+          <div class="content-box text-center">
+            <h2><a href="#">Pilot Boat</a></h2>
+            <h3>$700/Day</h3>
+          </div>
+        </div>
+      </div>
+      <!--End Single Yacht Style4-->
+
+    </div>
+    <div class="yacht-style4__btn">
+      <a class="btn-one" href="#">
+        <span class="txt">View All Yachts</span>
+      </a>
     </div>
   </div>
 </section>
-<!--End Yacht Tour Style1-->
+<!--End Yacht Style4-->

@@ -1,23 +1,27 @@
-<!--Start Testimonials Style2-->
-<section class="testimonial-style2">
-  <div class="testimonial-style2__shape">
-    <img src="assets/images/shapes/testimonial-v2-shape1.png" alt="Shape">
+<!--Start Testimonials Style1-->
+<section class="testimonial-style1">
+  <div class="testimonial-style1__bg jarallax" data-jarallax data-speed="0.3" data-imgPosition="100% 100%"
+    style="background-image: url(assets/images/backgrounds/testimonial-v1-left-bg.jpg);">
+  </div>
+  <div class="testimonial-style1__bg2"
+    style="background-image: url(assets/images/backgrounds/testimonial-v1-right-bg.jpg);">
   </div>
   <div class="container">
-    <div class="sec-title text-center">
-      <div class="sub-title">
-        <h4>Testimonials</h4>
+    <div class="testimonial-style1__content">
+      <div class="sec-title">
+        <div class="sub-title">
+          <h4>Testimonials</h4>
+        </div>
+        <h2>Feedback From Our <br>Customers</h2>
       </div>
-      <h2>Feedback From Our <br>Customers</h2>
-    </div>
-    <div class="row">
-      <div class="col-xl-12">
-        <div class="owl-carousel owl-theme thm-owl__carousel testimonial-style2-carousel"
+
+      <div class="testimonial-style1__inner">
+        <div class="owl-carousel owl-theme thm-owl__carousel testimonial-style1-carousel owl-nav-style-one"
           data-owl-options='{
                             "loop": true,
-                            "autoplay": true,
+                            "autoplay": false,
                             "margin": 30,
-                            "nav": false,
+                            "nav": true,
                             "dots": false,
                             "smartSpeed": 500,
                             "autoplayTimeout": 10000,
@@ -30,17 +34,17 @@
                                         "items": 1
                                     },
                                     "992": {
-                                        "items": 2
+                                        "items": 1
                                     },
                                     "1200": {
-                                        "items": 2
+                                        "items": 1
                                     }
                                 }
                             }'>
 
-          <!--Start Single Testimonials Style2-->
-          <div class="single-testimonial-style1 single-testimonial-style1--style2 wow fadeInUp"
-            data-wow-duration="1500ms" data-wow-delay="000ms">
+          <!--Start Single Testimonials Style1-->
+          <div class="single-testimonial-style1 wow fadeInUp" data-wow-duration="1500ms"
+            data-wow-delay="000ms">
             <div class="single-testimonial-style1-inner">
               <div class="icon">
                 <img src="assets/images/icon/icon-quote.png" alt="Icon">
@@ -63,9 +67,9 @@
                 </li>
               </ul>
               <div class="text">
-                <p>"Sailing has always been a passion of mine, but the experiences I've had
-                  in the last year have been nothing short of extra linary. From navigating
-                  the waters of the Caribbean”</p>
+                <p>"Sailing has always been a passion of mine, but the experiences I've had in
+                  the last year have been nothing short of extra linary. From navigating the
+                  waters of the Caribbean”</p>
               </div>
               <div class="author-box">
                 <div class="img">
@@ -78,10 +82,10 @@
               </div>
             </div>
           </div>
-          <!--End Single Testimonials Style2-->
-          <!--Start Single Testimonials Style2-->
-          <div class="single-testimonial-style1 single-testimonial-style1--style2 wow fadeInDown"
-            data-wow-duration="1500ms" data-wow-delay="000ms">
+          <!--End Single Testimonials Style1-->
+          <!--Start Single Testimonials Style1-->
+          <div class="single-testimonial-style1 wow fadeInUp" data-wow-duration="1500ms"
+            data-wow-delay="000ms">
             <div class="single-testimonial-style1-inner">
               <div class="icon">
                 <img src="assets/images/icon/icon-quote.png" alt="Icon">
@@ -104,26 +108,26 @@
                 </li>
               </ul>
               <div class="text">
-                <p>"Sailing has always been a passion of mine, but the experiences I've had
-                  in the last year have been nothing short of extra linary. From navigating
-                  the waters of the Caribbean”</p>
+                <p>"Sailing has always been a passion of mine, but the experiences I've had in
+                  the last year have been nothing short of extra linary. From navigating the
+                  waters of the Caribbean”</p>
               </div>
               <div class="author-box">
                 <div class="img">
-                  <img src="assets/images/testimonial/testimonial-v1-2.png" alt="Image">
+                  <img src="assets/images/testimonial/testimonial-v1-1.png" alt="Image">
                 </div>
                 <div class="title">
-                  <h3>Daniel Markson</h3>
-                  <p>CEO Tintar</p>
+                  <h3>Robert Dicosta</h3>
+                  <p>CEO Mynta</p>
                 </div>
               </div>
             </div>
           </div>
-          <!--End Single Testimonials Style2-->
+          <!--End Single Testimonials Style1-->
 
         </div>
       </div>
     </div>
   </div>
 </section>
-<!--End Testimonials Style2-->
+<!--End Testimonials Style1-->

@@ -1,28 +1,30 @@
 <!-- Main Slider Style1 -->
-<section class="main-slider-style1">
+<section class="main-slider-style4">
 
-  <div class="swiper-container banner-slider">
+  <div class="swiper-container banner-slider-two">
     <div class="swiper-wrapper">
 
       <!-- Start Slide Item -->
       <div class="swiper-slide">
-        <div class="image-layer" style="background-image: url(assets/images/slides/slide-v1-1.jpg);">
-        </div>
-        <div class="container">
-          <div class="content-box">
-            <div class="big-title">
-              <h2>
-                Find Your <br>Dream Yacht
-              </h2>
-            </div>
-            <div class="text">
-              <p>Fulfill your automotive fantasies without breaking the bank. Check our affordable
-                Yacht rentals for an opulent yet economical ride.</p>
-            </div>
-            <div class="btn-box">
-              <a class="btn-one" href="#">
-                <span class="txt">Explore More</span>
-              </a>
+        <div class="main-slider-style4__inner">
+          <div class="image-layer"
+            style="background-image: url(assets/images/slides/slide-v4-1.jpg);">
+          </div>
+          <div class="container">
+            <div class="content-box">
+              <div class="big-title">
+                <h2>AVISO <strong style="color: var(--thm-primary-color);">IMPORTANTE</strong></h2>
+              </div>
+              <div class="text">
+                <p>Prezado(a) associado(a),<br><br>
+                Consulte aqui a lista de exames e procedimentos que requerem um Pedido Médico acompanhado de um Relatório Médico para análise de autorização <br><br>
+                Se algum dos seus exames estiver nessa lista e você ainda possuir o relatório, recomendamos que entre em contato com o médico que solicitou o exame para providenciar o domumento complementar</p>
+              </div>
+              <div class="btn-box">
+                <a class="btn-one" href="#">
+                  <span class="txt">Clique Aqui</span>
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -30,23 +32,24 @@
       <!-- End Slide Item -->
       <!-- Start Slide Item -->
       <div class="swiper-slide">
-        <div class="image-layer" style="background-image: url(assets/images/slides/slide-v1-2.jpg);">
-        </div>
-        <div class="container">
-          <div class="content-box">
-            <div class="big-title">
-              <h2>
-                Find Your <br>Dream Yacht
-              </h2>
-            </div>
-            <div class="text">
-              <p>Fulfill your automotive fantasies without breaking the bank. Check our affordable
-                Yacht rentals for an opulent yet economical ride.</p>
-            </div>
-            <div class="btn-box">
-              <a class="btn-one" href="#">
-                <span class="txt">Explore More</span>
-              </a>
+        <div class="main-slider-style4__inner">
+          <div class="image-layer"
+            style="background-image: url(assets/images/slides/slide-v4-2.jpg);">
+          </div>
+          <div class="container">
+            <div class="content-box">
+              <div class="big-title">
+                <h2>Find Your Dream Yacht at Nauka</h2>
+              </div>
+              <div class="text">
+                <p>Fulfill your automotive fantasies without breaking the bank. Check our
+                  affordable Yacht rentals for an opulent yet economical ride.</p>
+              </div>
+              <div class="btn-box">
+                <a class="btn-one" href="#">
+                  <span class="txt">Explore More</span>
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -54,23 +57,24 @@
       <!-- End Slide Item -->
       <!-- Start Slide Item -->
       <div class="swiper-slide">
-        <div class="image-layer" style="background-image: url(assets/images/slides/slide-v1-3.jpg);">
-        </div>
-        <div class="container">
-          <div class="content-box">
-            <div class="big-title">
-              <h2>
-                Find Your <br>Dream Yacht
-              </h2>
-            </div>
-            <div class="text">
-              <p>Fulfill your automotive fantasies without breaking the bank. Check our affordable
-                Yacht rentals for an opulent yet economical ride.</p>
-            </div>
-            <div class="btn-box">
-              <a class="btn-one" href="#">
-                <span class="txt">Explore More</span>
-              </a>
+        <div class="main-slider-style4__inner">
+          <div class="image-layer"
+            style="background-image: url(assets/images/slides/slide-v4-3.jpg);">
+          </div>
+          <div class="container">
+            <div class="content-box">
+              <div class="big-title">
+                <h2>Find Your Dream Yacht at Nauka</h2>
+              </div>
+              <div class="text">
+                <p>Fulfill your automotive fantasies without breaking the bank. Check our
+                  affordable Yacht rentals for an opulent yet economical ride.</p>
+              </div>
+              <div class="btn-box">
+                <a class="btn-one" href="#">
+                  <span class="txt">Explore More</span>
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -78,23 +82,24 @@
       <!-- End Slide Item -->
       <!-- Start Slide Item -->
       <div class="swiper-slide">
-        <div class="image-layer" style="background-image: url(assets/images/slides/slide-v1-4.jpg);">
-        </div>
-        <div class="container">
-          <div class="content-box">
-            <div class="big-title">
-              <h2>
-                Find Your <br>Dream Yacht
-              </h2>
-            </div>
-            <div class="text">
-              <p>Fulfill your automotive fantasies without breaking the bank. Check our affordable
-                Yacht rentals for an opulent yet economical ride.</p>
-            </div>
-            <div class="btn-box">
-              <a class="btn-one" href="#">
-                <span class="txt">Explore More</span>
-              </a>
+        <div class="main-slider-style4__inner">
+          <div class="image-layer"
+            style="background-image: url(assets/images/slides/slide-v4-3.jpg);">
+          </div>
+          <div class="container">
+            <div class="content-box">
+              <div class="big-title">
+                <h2>Find Your Dream Yacht at Nauka</h2>
+              </div>
+              <div class="text">
+                <p>Fulfill your automotive fantasies without breaking the bank. Check our
+                  affordable Yacht rentals for an opulent yet economical ride.</p>
+              </div>
+              <div class="btn-box">
+                <a class="btn-one" href="#">
+                  <span class="txt">Explore More</span>
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -106,12 +111,11 @@
 
 
   <div class="banner-slider-control-wrap">
-    <div class="swiper-counter">
+    <div class="swiper-counter wow slideInUp" data-wow-delay="1500ms">
       <div id="current">01</div>
       <div id="total"></div>
     </div>
   </div>
-
   <div class="banner-slider-nav">
     <div class="banner-slider-control banner-slider-button-prev">
       <span><i class="icon-thin-arrow-left" aria-hidden="true"></i></span>

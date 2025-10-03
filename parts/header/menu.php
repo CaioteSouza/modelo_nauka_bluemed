@@ -1,19 +1,19 @@
 <ul class="main-menu__list">
 
-	<li class="dropdown">
-		<a href="#">Home</a>
-		<ul>
+	<li class="">
+		<a href="index.php">Home</a>
+		<!-- <ul>
 			<li><a href="index.php">Home 01</a></li>
 			<li><a href="index-2.php">Home 02</a></li>
 			<li><a href="index-3.php">Home 03</a></li>
 			<li><a href="index-4.php">Home 04</a></li>
 			<li><a href="index-5.php">Home 05</a></li>
-		</ul>
+		</ul> -->
 	</li>
 
-	<li class="dropdown">
-		<a href="#">About Us</a>
-		<ul>
+	<li class="">
+		<a href="about.php">About Us</a>
+		<!-- <ul>
 			<li><a href="about.php">About</a></li>
 			<li><a href="team.php">Team Members</a></li>
 			<li><a href="team-details.php">Team Details</a></li>
@@ -47,7 +47,7 @@
 			<li><a href="faq.php">Faq’s</a></li>
 			<li><a href="404.php">404</a></li>
 			<li><a href="coming-soon.php">Coming Soon</a></li>
-		</ul>
+		</ul> -->
 	</li>
 
 

@@ -1317,7 +1317,8 @@ Mobile Nav Megamenu Css
     height: 100px;
     border-top-right-radius: 50px;
     border-bottom-right-radius: 50px;
-    background-color: var(--thm-primary-color);
+    background-color: var(--thm-white);
+    /* background-color: var(--thm-primary-color); */
 }
 
 
@@ -1493,7 +1494,7 @@ Mobile Nav Megamenu Css
 }
 
 .stricky-header--style1 .main-menu__wrapper {
-    max-width: 1200px;
+    max-width: 600px;
     margin: 0 auto;
     padding: 0 15px;
     background-color: var(--thm-black-bg);
@@ -1513,6 +1514,10 @@ Mobile Nav Megamenu Css
 .sticky-logo-box-style1 {
     position: relative;
     display: none;
+}
+
+.menu-logo{
+    width: 60%;
 }
 
 .sticky-logo-box-style1 a {
