@@ -12,7 +12,7 @@
 	</li>
 
 	<li class="">
-		<a href="about.php">About Us</a>
+		<a href="about.php">About</a>
 		<!-- <ul>
 			<li><a href="about.php">About</a></li>
 			<li><a href="team.php">Team Members</a></li>
