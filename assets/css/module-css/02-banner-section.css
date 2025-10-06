@@ -868,18 +868,13 @@
     right: 0;
     overflow: hidden;
     background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
+    background-position: center center !important;
+    background-size: cover !important;
     /* transition: 3s all; */
     transform: scale(1.2);
     z-index: 1;
     opacity: 0;
-    transition: opacity 0.8s ease-in-out;
-}
-
-.main-slider-style4 .swiper-slide .image-layer {
-    background-size: cover;
-    background-position: center center;
+    /* transition: opacity 0.8s ease-in-out; */
 }
 
 .main-slider-style4 .image-layer::before {
