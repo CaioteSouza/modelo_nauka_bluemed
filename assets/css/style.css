@@ -45,6 +45,7 @@
     --thm-heading-font-color: #111111;
     --thm-white: #ffffff;
     --thm-black: #111111;
+    --thm-black-blue: #293c7e;
     --thm-black-bg: #111846;
     --thm-black-bg-2: #141b37;
     --thm-off-white: #f8f8f8a2;
@@ -814,7 +815,7 @@ select:focus {
     bottom: 0;
     right: 100%;
     content: "";
-    background: var(--thm-black);
+    background: var(--thm-black-blue);
     -webkit-transform: translateX(-100%);
     transform: translateX(-100%);
     border-radius: 0%;

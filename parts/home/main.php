@@ -38,12 +38,11 @@
           </div>
           <div class="container">
             <div class="content-box">
-              <div class="big-title">
-                <h2>Find Your Dream Yacht at Nauka</h2>
+              <div class="big-title1">
+                <h2><strong style="color: var(--thm-primary-color);">PLATAFORMA DE BENEFÍCIOS</strong></h2>
               </div>
-              <div class="text">
-                <p>Fulfill your automotive fantasies without breaking the bank. Check our
-                  affordable Yacht rentals for an opulent yet economical ride.</p>
+              <div class="text1">
+                <p>Clique no botão abaixo para aproveitar os descontos exclusivos</p>
               </div>
               <div class="btn-box">
                 <a class="btn-one" href="#">

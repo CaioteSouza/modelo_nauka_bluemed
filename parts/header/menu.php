@@ -12,7 +12,7 @@
 	</li>
 
 	<li class="">
-		<a href="about.php">About</a>
+		<a href="about.php">Sobre</a>
 		<!-- <ul>
 			<li><a href="about.php">About</a></li>
 			<li><a href="team.php">Team Members</a></li>
@@ -52,38 +52,27 @@
 
 
 	<li class="dropdown">
-		<a href="#">Yachts</a>
+		<a href="#">Planos</a>
 		<ul>
-			<li><a href="yachts-1.php">Yachts List View</a></li>
-			<li><a href="yachts-2.php">Yachts Grid View</a></li>
-			<li>
-				<a href="yachts-details.php">Yachts Details 01</a>
-			</li>
-			<li>
-				<a href="yachts-details-2.php">
-					Yachts Details 02
-				</a>
-			</li>
-			<li>
-				<a href="yachts-details-3.php">
-					Yachts Details 03
-				</a>
-			</li>
+			<li><a href="yachts-1.php">Visualizar Planos</a></li>
+			<li><a href="yachts-2.php">Anexo I</a></li>
 		</ul>
 	</li>
 
-	<li class="dropdown">
-		<a href="#">Places</a>
-		<ul>
-			<li><a href="tour-plan.php">Tour Plan</a></li>
-			<li>
-				<a href="tour-details.php">Tour Details</a>
-			</li>
-		</ul>
+	<li class="">
+		<a href="#">Pronto Atendimento</a>
+	</li>
+
+	<li class="">
+		<a href="#">Serviços Online</a>
+	</li>
+
+	<li class="">
+		<a href="contact.php">Fale Conosco</a>
 	</li>
 
 
-	<li class="dropdown">
+	<!-- <li class="dropdown">
 		<a href="#">Shop</a>
 		<ul>
 			<li><a href="shop.php">Products</a></li>
@@ -93,9 +82,5 @@
 			<li><a href="sign-up.php">sign up</a></li>
 			<li><a href="login.php">Login</a></li>
 		</ul>
-	</li>
-
-	<li>
-		<a href="contact.php">Contact</a>
-	</li>
+	</li> -->
 </ul>

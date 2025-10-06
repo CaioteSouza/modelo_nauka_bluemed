@@ -1321,18 +1321,10 @@ Mobile Nav Megamenu Css
     /* background-color: var(--thm-primary-color); */
 }
 
-.header-contact-info-style1 ul li .btn-box a span {
-    position: relative;
-    display: block;
-    line-height: 0;
-    top: 2px;
+/* Adiciona margem à direita do ícone do WhatsApp em qualquer botão */
+.header-button-wpp .btn-one .icon-whatsapp {
     margin-right: 8px;
 }
-
-/* .icon-whatsapp{
-    margin-right: 10px;
-} */
-
 
 
 /** Main Menu Style1 Css**/
@@ -1465,13 +1457,13 @@ Mobile Nav Megamenu Css
 
 
 
-.header-button-style1 {
+.header-button-style1, .header-button-wpp {
     position: relative;
     display: block;
     line-height: 0;
 }
 
-.header-button-style1 .btn-one {
+.header-button-style1 .btn-one, .header-button-wpp .btn-one {
     line-height: 30px;
 }
 
@@ -1479,12 +1471,16 @@ Mobile Nav Megamenu Css
     background-color: var(--thm-primary-color);
 }
 
-.header-button-style1 .btn-one::after {
+.header-button-wpp .btn-one::before {
+    background-color: #25D366;
+}
+
+.header-button-style1 .btn-one::after, .header-button-wpp .btn-one::after {
     background-color: transparent;
     border: 1px solid var(--thm-white);
 }
 
-.header-button-style1 .btn-one i {
+.header-button-style1 .btn-one i, .header-button-wpp .btn-one i {
     margin-right: 0px;
     margin-left: 10px;
 }

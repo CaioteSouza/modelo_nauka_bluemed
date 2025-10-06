@@ -54,7 +54,7 @@
                                 <p>Call:</p>
                                 <a href="tel:188822333">031-783-7951</a>
                             </div> -->
-                            <div class="header-button-style1">
+                            <div class="header-button-wpp">
                                 <a class="btn-one" href="#">
                                     <i class="icon-whatsapp"></i>
                                     <span class="txt">Contrate Já!</span>
@@ -75,10 +75,4 @@
             <!-- /.sticky-header__content -->
         </div>
         <!-- /.stricky-header -->
-
-
-
-
-
-
-
+        <!-- End Main Header Style1 -->
