@@ -870,9 +870,16 @@
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    transition: 3s all;
+    /* transition: 3s all; */
     transform: scale(1.2);
     z-index: 1;
+    opacity: 0;
+    transition: opacity 0.8s ease-in-out;
+}
+
+.main-slider-style4 .swiper-slide .image-layer {
+    background-size: cover;
+    background-position: center center;
 }
 
 .main-slider-style4 .image-layer::before {
@@ -888,6 +895,7 @@
 
 .main-slider-style4 .swiper-slide-active .image-layer {
     animation: scale5 5s ease forwards;
+    opacity: 1;
 }
 
 @keyframes scale5 {
@@ -1018,7 +1026,6 @@
     -o-transition-delay: 1500ms;
     transition-delay: 1500ms;
 }
-
 
 
 
