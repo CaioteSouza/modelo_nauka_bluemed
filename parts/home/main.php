@@ -1,4 +1,4 @@
-<!-- Main Slider Style1 -->
+<!-- Main Slider Style4 -->
 <section class="main-slider-style4">
 
   <div class="swiper-container banner-slider-two">
@@ -125,4 +125,4 @@
     </div>
   </div>
 </section>
-<!-- End Main Slider Style1 -->
+<!-- End Main Slider Style4 -->

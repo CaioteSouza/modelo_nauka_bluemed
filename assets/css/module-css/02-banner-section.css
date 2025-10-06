@@ -903,10 +903,21 @@
     }
 }
 
+.main-slider-style4 .swiper-slide{
+    height: 1000px;
+}
+
+.main-slider-style4 .main-slider-style4__inner, .main-slider-style4 .image-layer {
+    height: 100%;
+}
+
 .main-slider-style4 .container {
-    position: relative;
-    display: block;
-    padding: 272px 0px 195px;
+    padding-top: 0;
+    padding-bottom: 0;
+    height: 100%; /* Faz o container do conteúdo ocupar a altura toda */
+    display: flex; /* Alinha o conteúdo dentro do container */
+    justify-content: center;
+    flex-direction: column;
 }
 
 .main-slider-style4 .content-box {

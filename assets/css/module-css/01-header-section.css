@@ -1321,7 +1321,17 @@ Mobile Nav Megamenu Css
     /* background-color: var(--thm-primary-color); */
 }
 
+.header-contact-info-style1 ul li .btn-box a span {
+    position: relative;
+    display: block;
+    line-height: 0;
+    top: 2px;
+    margin-right: 8px;
+}
 
+/* .icon-whatsapp{
+    margin-right: 10px;
+} */
 
 
 
