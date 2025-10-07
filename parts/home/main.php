@@ -46,7 +46,7 @@
               </div>
               <div class="btn-box">
                 <a class="btn-one" href="#">
-                  <span class="txt">Explore More</span>
+                  <span class="txt">Venha Ver</span>
                 </a>
               </div>
             </div>
@@ -63,15 +63,50 @@
           <div class="container">
             <div class="content-box">
               <div class="big-title">
-                <h2>Find Your Dream Yacht at Nauka</h2>
+                <h2><strong style="color: var(--thm-black-bg);">BLUE MED</strong> INFORMA</h2>
               </div>
               <div class="text">
-                <p>Fulfill your automotive fantasies without breaking the bank. Check our
-                  affordable Yacht rentals for an opulent yet economical ride.</p>
+                <p>Reajuste anual de 6,06% conforme autorização da ANS para os contratos de planos individuais e familiares com aniversários entre maio/2025 e abril/2026</p>
               </div>
               <div class="btn-box">
                 <a class="btn-one" href="#">
-                  <span class="txt">Explore More</span>
+                  <span class="txt">Clique Aqui</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Slide Item -->
+      <!-- Start Slide Item -->
+      <div class="swiper-slide" onclick="window.location.href='https://bluemedsaude.com.br/novoapp/';"style="cursor: pointer;">
+        <div class="main-slider-style4__inner">
+          <div class="image-layer"
+            style="background-image: url(assets/images/slides/slide-v4-4.jpg);">
+          </div>
+          <div class="container">
+              <div class="content-box"></div>
+          </div>
+        </div>
+      </div>
+      <!-- End Slide Item -->
+      <!-- Start Slide Item -->
+      <div class="swiper-slide">
+        <div class="main-slider-style4__inner">
+          <div class="image-layer"
+            style="background-image: url(assets/images/slides/slide-v4-5.jpg);">
+          </div>
+          <div class="container">
+            <div class="content-box">
+              <div class="big-title">
+                <h2>REAJUSTE 2025</h2>
+              </div>
+              <div class="text">
+                <p>Reajuste Pessoa Júridca</p>
+              </div>
+              <div class="btn-box">
+                <a class="btn-one" href="#">
+                  <span class="txt">REAJUSTE PME</span>
                 </a>
               </div>
             </div>
@@ -83,20 +118,23 @@
       <div class="swiper-slide">
         <div class="main-slider-style4__inner">
           <div class="image-layer"
-            style="background-image: url(assets/images/slides/slide-v4-3.jpg);">
+            style="background-image: url(assets/images/slides/slide-v4-6.jpg);">
           </div>
           <div class="container">
             <div class="content-box">
               <div class="big-title">
-                <h2>Find Your Dream Yacht at Nauka</h2>
+                <h2>Cuidado com <strong style="color: var(--thm-primary-color);">BOLETOS FALSOS</strong><p style="color: var(--thm-yellow);">ALERTA DE FRAUDE</p></h2>
               </div>
               <div class="text">
-                <p>Fulfill your automotive fantasies without breaking the bank. Check our
-                  affordable Yacht rentals for an opulent yet economical ride.</p>
+                <p>Sempre solicite a 2º via de faturas em nossos canais oficiais.</p>
+                <p><i class="icon-whatsapp"></i>  800 200 3030</p>
+                <p><i class="icon-display"></i>  bluemedsaude.com.br</p>
+                <p><i class="icon-mobile"></i>  APP Blue Med Saúde</p>
+                <p><i class="icon-phone"></i>  0800 200 3030</p>
               </div>
               <div class="btn-box">
                 <a class="btn-one" href="#">
-                  <span class="txt">Explore More</span>
+                  <span class="txt">SAIBA MAIS</span>
                 </a>
               </div>
             </div>
@@ -104,7 +142,6 @@
         </div>
       </div>
       <!-- End Slide Item -->
-
     </div>
   </div>
 

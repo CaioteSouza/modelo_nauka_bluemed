@@ -869,12 +869,12 @@
     overflow: hidden;
     background-repeat: no-repeat;
     background-position: center center !important;
-    background-size: cover !important;
-    transition: 3s all;
-    transform: scale(1.2);
+    background-size: contain !important;
+    /* transition: 3s all; */
+    /* transform: scale(1.2); */
     z-index: 1;
     opacity: 0;
-    /* transition: opacity 0.8s ease-in-out; */
+    transition: opacity 0.8s ease-in-out;
 }
 
 .main-slider-style4 .image-layer::before {
@@ -889,7 +889,7 @@
 }
 
 .main-slider-style4 .swiper-slide-active .image-layer {
-    animation: scale5 5s ease forwards;
+    /* animation: scale5 5s ease forwards; */
     opacity: 1;
 }
 
@@ -904,7 +904,7 @@
 }
 
 .main-slider-style4 .swiper-slide{
-    height: 1000px;
+    height: 800px;
 }
 
 .main-slider-style4 .main-slider-style4__inner, .main-slider-style4 .image-layer {

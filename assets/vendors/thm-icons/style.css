@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?bnptrt');
-  src:  url('fonts/icomoon.eot?bnptrt#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?bnptrt') format('truetype'),
-    url('fonts/icomoon.woff?bnptrt') format('woff'),
-    url('fonts/icomoon.svg?bnptrt#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?b4iv1c');
+  src:  url('fonts/icomoon.eot?b4iv1c#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?b4iv1c') format('truetype'),
+    url('fonts/icomoon.woff?b4iv1c') format('woff'),
+    url('fonts/icomoon.svg?b4iv1c#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,12 +25,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-local_hospital:before {
-  content: "\e94c";
-}
-.icon-hospital-o:before {
-  content: "\e94d";
-}
 .icon-whatsapp1:before {
   content: "\e94e";
   color: #25d366;
@@ -127,9 +121,6 @@
 }
 .icon-user:before {
   content: "\e92d";
-}
-.icon-people-1:before {
-  content: "\e92e";
 }
 .icon-close:before {
   content: "\e92f";
@@ -277,6 +268,21 @@
 .icon-water-toys:before {
   content: "\e912";
 }
+.icon-local_hospital:before {
+  content: "\e94c";
+}
 .icon-whatsapp:before {
   content: "\ea93";
+}
+.icon-phone:before {
+  content: "\e94f";
+}
+.icon-display:before {
+  content: "\e956";
+}
+.icon-mobile:before {
+  content: "\e958";
+}
+.icon-hospital-o:before {
+  content: "\e94d";
 }

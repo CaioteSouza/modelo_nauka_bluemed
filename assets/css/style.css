@@ -34,7 +34,6 @@
     --thm-font-2: "Cormorant Infant", serif;
     --thm-font-3: "Great Vibes", cursive;
     --thm-primary-color: #00c0ff;
-    /* --thm-primary-color: #000000; */
     --thm-primary-color-rgb: 0, 192, 255;
 
     --thm-body-font-color: #666666;
@@ -49,6 +48,7 @@
     --thm-black-bg: #111846;
     --thm-black-bg-2: #141b37;
     --thm-off-white: #f8f8f8a2;
+    --thm-yellow: #fbf12c;
 
     --thm-gray-bg: #EAF5FC;
     --thm-border-color: #e5e5e5;
