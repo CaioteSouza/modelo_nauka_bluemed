@@ -1848,12 +1848,60 @@
 
     // Curved Circle
     if ($('.about-style1-rotated-text').length) {
+      // Normalizar pontuação: preservar separadores no começo/fim e padronizar para interpunct '·'
+      $('.about-style1-rotated-text').each(function () {
+        var $el = $(this);
+        var t = $el.text();
+        // DEBUG: mostrar texto original no console para verificar truncamento
+        try { console.log('[circle-debug] original text:', t); } catch (e) {}
+
+        // Trabalhar com versão trimada para detectar separadores no começo/fim
+        var raw = $.trim(t);
+        // Detectar se há separador no começo/fim
+        var prefixSep = '';
+        var suffixSep = '';
+        var trimmed = raw;
+        if (/^[\.·]/.test(trimmed)) {
+          prefixSep = trimmed.match(/^[\.·]+/)[0];
+          trimmed = trimmed.replace(/^[\.·]+/, '');
+        }
+        if (/[\.·]$/.test(trimmed)) {
+          suffixSep = trimmed.match(/[\.·]+$/)[0];
+          trimmed = trimmed.replace(/[\.·]+$/, '');
+        }
+
+        // Padronizar tokens internos
+        var tokens = trimmed.split(/[\.·]\s*/).map(function (s) { return $.trim(s); }).filter(function (s) { return s.length > 0; });
+
+        if (tokens.length > 0) {
+          var newText = tokens.join(' · ');
+          // Reaplicar prefix/suffix se existirem (transformando para interpunct único)
+          if (prefixSep) newText = '· ' + newText;
+          if (suffixSep) newText = newText + ' ·';
+          $el.text(newText.trim());
+          // debug logs removed
+        } else {
+          // se não há tokens úteis, apenas trim
+          $el.text($.trim(t));
+        }
+      });
+
       $('.about-style1-rotated-text').circleType({
         position: 'absolute',
-        dir: 1,
-        radius: 72,
+        dir: -1, // inverter a direção do texto circular
         forceHeight: true,
         forceWidth: true
+      });
+      // DEBUG: contar quantos spans o circleType gerou (cada letra -> um span via lettering.js)
+      // debug span count log removed
+      // Após o circleType, marque os spans que contenham o separador para adicionar espaçamento
+      $('.about-style1-rotated-text').each(function () {
+        $(this).find('span').each(function () {
+          var ch = $(this).text().trim();
+          if (ch === '·' || ch === '.') {
+            $(this).addClass('rot-sep');
+          }
+        });
       });
     }
 

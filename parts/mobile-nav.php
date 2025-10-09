@@ -4,6 +4,22 @@
         <span class="mobile-nav__close mobile-nav__toggler">
             <i class="fa fa-times-circle"></i>
         </span>
+        <!-- Top bar: logo on left, WhatsApp button on right -->
+        <div class="mobile-nav__top">
+            <div class="mobile-nav__top-left">
+                <div class="logo-box">
+                    <a href="index.php" aria-label="logo image">
+                        <img src="assets/images/resources/mobile-nav-logo.png" alt="" />
+                    </a>
+                </div>
+            </div>
+            <div class="mobile-nav__top-right">
+                <a href="https://wa.me/551199999999?text=Ol%C3%A1" class="btn-one mobile-nav__wpp" aria-label="WhatsApp">
+                    <i class="icon-whatsapp"></i>
+                    <span class="txt">WhatsApp</span>
+                </a>
+            </div>
+        </div>
         <div class="logo-box">
             <a href="index.php" aria-label="logo image">
                 <img src="assets/images/resources/mobile-nav-logo.png" alt="" />

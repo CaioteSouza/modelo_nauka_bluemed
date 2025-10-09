@@ -11,25 +11,36 @@ $.fn.circleType = function (options) {
         dir: 1,
         position: 'relative'
     };
-    if (typeof ($.fn.lettering) !== 'function') {
-        console.log('Lettering.js is required');
-        return;
-    }
+    // We build spans manually, no external lettering.js required.
     return this.each(function () {
 
         if (options) {
             $.extend(settings, options);
         }
-        var elem = this,
-            delta = (180 / Math.PI),
-            ch = parseInt($(elem).css('line-height'), 10),
-            fs = parseInt($(elem).css('font-size'), 10),
-            txt = elem.innerHTML.replace(/^\s+|\s+$/g, '').replace(/\s/g, '&nbsp;'),
-            letters,
-            center;
+        var elem = this;
+        var delta = (180 / Math.PI);
+        var ch = parseInt($(elem).css('line-height'), 10);
+        var fs = parseInt($(elem).css('font-size'), 10);
 
-        elem.innerHTML = txt
-        $(elem).lettering();
+        // build spans manually from textContent to preserve separator spans and
+        // avoid disrupting tag attributes when replacing whitespace
+        var raw = elem.textContent.replace(/^\s+|\s+$/g, '');
+        var out = '';
+        for (var ri = 0; ri < raw.length; ri++) {
+            var chChar = raw.charAt(ri);
+            if (chChar === '.') chChar = '·'; // normalize dot to interpunct
+            if (chChar === ' ') {
+                out += '<span>' + '&nbsp;' + '</span>';
+            } else if (chChar === '·') {
+                out += '<span class="rot-sep">' + chChar + '</span>';
+            } else {
+                // escape HTML-special characters just in case
+                var esc = chChar.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+                out += '<span>' + esc + '</span>';
+            }
+        }
+        elem.innerHTML = out;
+        var letters, center;
 
         elem.style.position = settings.position;
 

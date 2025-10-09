@@ -75,6 +75,7 @@
    box-shadow: 0px 0px 25px 0px rgba(25, 26, 28, 0.09);
    margin-left: 0px;
    z-index: 11;
+   overflow: visible; /* permitir que caracteres posicionados no limite não sejam cortados */
 }
 
 .about-style1-rotated-text {
@@ -93,6 +94,23 @@
    word-spacing: 2px;
    letter-spacing: 0.08em;
    transform: rotate(0deg);
+   z-index: 50; /* garantir que o texto rotacionado fique acima do overlay central */
+   overflow: visible; /* garantir que caracteres posicionados fora do box interno não sejam cortados */
+}
+
+/* spans criados pelo plugin que curvam o texto devem aparecer acima do overlay */
+.about-style1-rotated-text span {
+   position: relative;
+   z-index: 20;
+}
+
+/* estilo dos separadores no texto curvo */
+.about-style1-rotated-text span.rot-sep {
+   display: inline-block;
+   padding: 0 8px; /* espaço à esquerda e direita do separador (padding funciona melhor quando rotacionado) */
+   transform: translateY(-2px); /* ajustar levemente a posição vertical */
+   z-index: 60;
+   font-weight: 700;
 }
 
 .about-style1__rotated-text .overlay-text {
@@ -109,6 +127,7 @@
    border-radius: 50%;
    color: var(--thm-white);
    font-size: 40px;
+   z-index: 10; /* manter o overlay atrás do texto rotacionado */
 }
 
 
@@ -564,6 +583,44 @@
    border-top: 5px solid var(--thm-primary-color);
    padding: 29px 40px 45px;
    margin-top: -200px;
+}
+
+/* Quick action buttons (substitui o formulário) */
+.about-style4__quick-actions .quick-actions-row {
+   display: flex;
+   gap: 18px;
+   align-items: stretch;
+   justify-content: center;
+   flex-direction: column; /* empilhar verticalmente por padrão */
+}
+.about-style4__quick-actions .btn-one {
+   display: flex;
+   align-items: center;
+   gap: 12px;
+   padding-left: 26px;
+   padding-right: 26px;
+   padding-top: 16px;
+   padding-bottom: 16px;
+   font-size: 15px;
+   color: var(--thm-white);
+   text-align: left;
+   width: 100%;
+   min-height: 64px; /* parecido com campos do formulário */
+}
+.about-style4__quick-actions .btn-one i {
+   font-size: 22px;
+   width: 30px;
+   text-align: center;
+}
+@media (max-width: 767px) {
+   .about-style4__quick-actions .quick-actions-row {
+      gap: 12px;
+   }
+   .about-style4__quick-actions .btn-one {
+      width: 100%;
+      min-width: auto;
+      max-width: none;
+   }
 }
 
 .about-style4__form .title-box {

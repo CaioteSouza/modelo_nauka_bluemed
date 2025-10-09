@@ -11,7 +11,7 @@
   </div>
   <div class="about-style1__rotated-text instyle--2">
     <div class="about-style1-rotated-text rotate-me">
-      The Best . Design . Agency .
+        · Saúde · Bem-Estar · Você 
     </div>
     <a class="overlay-text" href="#">
       <i class="icon-down-arrow"></i>
@@ -24,33 +24,34 @@
         <div class="about-style4__content">
           <div class="sec-title">
             <div class="sub-title">
-              <h4>About Us</h4>
+              <h4>Sobre nós</h4>
             </div>
-            <h2>Luxury Yacht in The <br>Heart of Dubai</h2>
+            <h2>A Blue <br>Med Saúde</h2>
           </div>
           <div class="text">
-            <p>Experience unparalleled opulence with our luxury yacht rentals in the heart of Dubai.
-              Nestled among the city's iconic skyline and pristine waters, our yachts offer a
-              lavish escape where modern luxury </p>
+            <p> Blue Med Saúde nasceu com um propósito: oferecer o melhor serviço de saúde às famílias brasileiras.<br><br>
+                Para nós, nada é mais importante do que a saúde e a felicidade das pessoas. Prova disso é o atendimento cuidadoso que nossos credenciados oferecem a cada um dos nossos associados, garantindo que sua experiência conosco seja sempre agradável e eficiente.<br><br>
+                Além disso, nos preocupamos em manter um impacto sempre positivo à comunidade que nos cerca, contribuindo para uma sociedade mais justa e igualitária para todos. Nós temos o mais absoluto respeito pelas políticas públicas e agimos sempre de acordo com às regras da ANS e do órgão de Defesa do Consumidor.<br><br>
+                A Blue Med é uma empresa 100% brasileira. A marca surgiu como um produto diferencial da Alvorecer, e conta com total apoio e a tradição de um convênio que atua desde 1924.<br></p>
           </div>
           <ul class="list-item clearfix">
             <li>
               <div class="icon">
                 <i class="icon-check-1"></i>
               </div>
-              <p>Trade with one tap, anywhere, anytime</p>
+              <p>MISSÃO - Promover maior acesso a saúde de forma acolhedora, ágil, com eficiência na gestão de recursos e crescimento sustentável</p>
             </li>
             <li>
               <div class="icon">
                 <i class="icon-check-1"></i>
               </div>
-              <p>Seamlessly manage your account and portfolio</p>
+              <p>VISÃO - Ser reconhecida pela qualidade e eficiência operacional, ocupando posição de destaque nas regiões onde atua.</p>
             </li>
             <li>
               <div class="icon">
                 <i class="icon-check-1"></i>
               </div>
-              <p>Stay ahead with real-time charts and indicators</p>
+              <p>VALORES -- Ética - Empatia - Respeito - Humildade - Cooperação</p>
             </li>
           </ul>
         </div>
@@ -59,44 +60,29 @@
       <div class="col-xl-5 col-lg-6">
         <div class="about-style4__form">
           <div class="title-box">
-            <h3>Start Your Booking</h3>
+            <h3>Como podemos lhe Ajudar ?</h3>
           </div>
-          <form id="about-style4__form" name="about-style4__form" action="#" method="post">
-            <ul class="clearfix">
-              <li class="form-group icon1">
-                <div class="select-box clearfix">
-                  <select class="wide">
-                    <option data-display="Choose Service">Choose Service
-                    </option>
-                    <option value="1">Choose Service</option>
-                    <option value="2">Choose Service</option>
-                    <option value="3">Choose Service</option>
-                  </select>
-                </div>
-              </li>
-              <li class="form-group icon2">
-                <input type="text" name="datein" placeholder="Check-in" id="datepicker">
-              </li>
-              <li class="form-group icon3">
-                <input type="text" name="dateout" placeholder="Check-out" id="datepicker2">
-              </li>
-              <li class="form-group icon4">
-                <div class="select-box clearfix">
-                  <select class="wide">
-                    <option data-display="Guests">Guests</option>
-                    <option value="1">Guests</option>
-                    <option value="2">Guests</option>
-                    <option value="3">Guests</option>
-                  </select>
-                </div>
-              </li>
-              <li class="btn-box">
-                <button class="btn-one">
-                  <span class="txt">Search Yacht</span>
-                </button>
-              </li>
-            </ul>
-          </form>
+          <!-- Barra de botões substitui o formulário -->
+          <div class="about-style4__quick-actions">
+            <div class="quick-actions-row">
+              <a href="index.php" class="btn-one" title="Rede Credenciada">
+                <i class="icon-search"></i>
+                <span class="txt">Rede Credenciada</span>
+              </a>
+              <a href="index.php" class="btn-one" title="2ª Via de Boleto">
+                <i class="icon-price-1"></i>
+                <span class="txt">2ª Via de Boleto</span>
+              </a>
+              <a href="index.php" class="btn-one" title="Portal do Beneficiário">
+                <i class="icon-user"></i>
+                <span class="txt">Portal do Beneficiário</span>
+              </a>
+              <a href="index.php" class="btn-one" title="Conheça nossos planos">
+                <i class="icon-star"></i>
+                <span class="txt">Conheça nossos planos</span>
+              </a>
+            </div>
+          </div>
         </div>
       </div>
 
