@@ -637,7 +637,7 @@ Mobile Nav Megamenu Css
     z-index: 99;
 }
 
-.main-menu .main-menu__list>li>ul {}
+/* .main-menu .main-menu__list>li>ul {} */
 
 .main-menu .main-menu__list>li>ul:before,
 .main-menu .main-menu__list>li>ul>li>ul:before,
